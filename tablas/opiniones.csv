@@ -1,716 +1,716 @@
-,Nombre y Apellidos,Áreas,Estrellas,Opinion,Nombre_miembro,Foto miembro
-0,Feliciana Cantón,['Burocracia'],1,No es muy habladora,Morena Pol,opinion5m.png
-1,Amador Llopis,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Chelo Rojas,miembroh1.png
-2,Jose Ignacio Godoy,"['El día a día', 'Burocracia']",5,Sin duda seguiré utilizando este servicio,Alma Luque,miembroh1.png
-3,Emilio Calatayud,"['Nuevas Tecnologías', 'Servicios del Municipio']",3,Bien,Ascensión Anaya,miembrom4.png
-4,Inmaculada Bonet,['Nuevas Tecnologías'],1,No habla mucho,Leire Quiroga,miembrom4.png
-5,Dominga Roca,"['Salud', 'El día a día', 'Servicios del Municipio']",2,No sabía lo que le pedía,Luisa Cid,opinion6.png
-6,Amílcar Andrés,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No me ayudó nada,Nando Lloret,opinion1.png
-7,Ciro Gil,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,Paco Perera,opinion4.png
-8,Joan Vazquez,"['El día a día', 'Burocracia']",2,El servicio no estuvo mal,Teodosio Carrera,opinion2m.png
-9,Eligia Amor,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,No es muy habladora,Cruz España,miembrom3.png
-10,Chelo Flor,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,Ruperta Casares,miembroh1.png
-11,Lilia Rivas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Fue un día estupendo,Leandra Bilbao,miembrom3.png
-12,Isidro Sanchez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Adelia Costa,miembrom3.png
-13,Dolores Lobo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No habla mucho,Herberto Duarte,miembroh1.png
-14,Nydia Agudo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,No hubiera podido estar más feliz,Bernabé Tomas,opinion1.png
-15,Martina Cuervo,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,Está normal,Wálter Mayoral,miembrom4.png
-16,José Rocamora,"['Salud', 'Amigos y Ocio']",4,No hubiera podido está más feliz,Calixto Cabezas,miembrom3.png
-17,Noé Cortés,"['Amigos y Ocio', 'El día a día']",3,Me ha ayudado en lo que le he pedido,Nico Uribe,miembrom4.png
-18,Ildefonso Navarro,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,"Bueno, podría mejorar",Fidela Salamanca,miembrom3.png
-19,Cristian Bru,"['Nuevas Tecnologías', 'El día a día']",2,Ha llegado tarde,Álvaro Manzanares,opinion3m.png
-20,Ricardo Caballero,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",1,No habla mucho,Carmela Arrieta,miembroh3.png
-21,Plinio Núñez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Es muy amable,Clotilde Colomer,opinion2m.png
-22,Elisabet Lamas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Buenaventura Amat,miembroh1.png
-23,Noemí Aroca,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Manuelita Santiago,opinion6.png
-24,Luna Segovia,"['Amigos y Ocio', 'Burocracia']",5,"Gracias, ha sido toda una experiencia",Concepción Molins,opinion4.png
-25,Brunilda Casanovas,"['Salud', 'El día a día', 'Servicios del Municipio']",2,No terminó de ayudarme,Alcides Calzada,miembrom4.png
-26,Ágata Pinedo,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",3,Me lo he pasado bien,Beatriz Cabañas,miembrom4.png
-27,Cayetano Marcos,"['Salud', 'Servicios del Municipio']",3,No hemos terminado de congeniar pero ha estado bien,Ciriaco Olivera,opinion1.png
-28,Paula Pardo,['Burocracia'],4,No puedo estar más agradecida,Natividad Calatayud,opinion4.png
-29,Crescencia Fernandez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",5,Fue un día estupendo,Lupe Acevedo,opinion1.png
-30,Julie Baños,['Amigos y Ocio'],5,No puedo estar más agradecida,Emma Nicolás,miembrom3.png
-31,Artemio Goñi,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Alfredo Sastre,miembroh1.png
-32,María Teresa Mancebo,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Maricela Escudero,opinion3m.png
-33,Cebrián Guerrero,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Lupita Ayllón,miembrom4.png
-34,Roxana Cabrero,"['Salud', 'Burocracia']",1,No habla mucho,Julieta Rius,miembroh3.png
-35,Ricardo Santana,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,Benjamín Neira,opinion3m.png
-36,Fabiola Patiño,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",5,Sin duda seguiré utilizando este servicio,Martirio Jover,miembroh1.png
-37,Fermín Pellicer,"['Amigos y Ocio', 'Servicios del Municipio']",2,Está normal,Mar Valero,opinion4.png
-38,Pedro Gallego,['El día a día'],4,No puedo estar más agradecida,Cirino Puerta,opinion3m.png
-39,Herminia Lasa,"['Salud', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Marina Alarcón,miembroh3.png
-40,Judith Bellido,"['Nuevas Tecnologías', 'Burocracia']",3,Ha estado muy bien,Cristian Losa,opinion1.png
-41,Emelina Donoso,"['Salud', 'El día a día']",2,No ha podido ayudarme en lo que necesitaba,Gil Abad,opinion6.png
-42,Bibiana Hierro,"['Amigos y Ocio', 'Burocracia']",2,"Bueno, podría mejorar",Gilberto Galán,opinion4.png
-43,Fernando Sevilla,"['Nuevas Tecnologías', 'Salud']",1,No me entendía,María Gimenez,miembroh3.png
-44,Reynaldo Lerma,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me arregló los papeles,Calixto Verdú,miembrom4.png
-45,Ángela Gimenez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Gracias,Benigno Mínguez,miembroh3.png
-46,Isidora Morata,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Mireia Cabrera,miembroh1.png
-47,Pía Barba,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Bien,Patricia Maldonado,opinion5m.png
-48,Jenaro Antón,"['Salud', 'Amigos y Ocio']",2,No terminó de ayudarme,Esperanza Feliu,opinion6.png
-49,Noa Moles,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Me lo he pasado bien,Clímaco Muro,opinion2m.png
-50,Salvador Leal,"['Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,María Fernanda Araujo,opinion6.png
-51,Blas Galván,"['Amigos y Ocio', 'Burocracia']",2,"Bueno, podría mejorar",Sarita Valverde,opinion4.png
-52,Xiomara Miranda,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Me acompañó en lo que necesitaba,Dulce Girón,opinion6.png
-53,Ibán Valera,"['Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Maribel Matas,opinion5m.png
-54,Ruy Segarra,"['Nuevas Tecnologías', 'Servicios del Municipio']",5,Me ayudó mucho en casa,Celestina Barros,opinion4.png
-55,Eric Landa,"['Nuevas Tecnologías', 'Burocracia']",2,No ha podido ayudarme en lo que necesitaba,Nereida Sola,miembrom4.png
-56,Emilio Huerta,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Bien,África Peñas,opinion3m.png
-57,Marcela Jódar,"['Nuevas Tecnologías', 'Salud']",4,No hubiera podido está más feliz,David Mur,miembroh3.png
-58,Margarita Romero,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Graciela Leal,miembroh1.png
-59,Tomasa Pujol,['Nuevas Tecnologías'],2,Ha llegado tarde,Celestina Dalmau,opinion5m.png
-60,Porfirio Chacón,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha ayudado en lo que le he pedido,Nydia Saura,opinion5m.png
-61,Araceli Uriarte,['Burocracia'],3,Un día agradable,Asdrubal Diéguez,miembroh3.png
-62,Ciriaco Arévalo,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me lo he pasado bien,Ciríaco Alegria,opinion1.png
-63,Rosalinda Canals,"['Nuevas Tecnologías', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Quirino Mas,miembroh1.png
-64,Ezequiel Cuesta,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Está normal,Belén Tur,opinion1.png
-65,Mónica Bartolomé,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,Tuvo muy poca paciencia,Javiera Fabregat,opinion3m.png
-66,Rogelio Pizarro,"['Salud', 'Burocracia', 'Servicios del Municipio']",3,Estoy contenta,Eva María Barrena,opinion6.png
-67,Débora Solé,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,No puedo estar más agradecida,Poncio Gargallo,miembroh3.png
-68,Benigna Iglesias,"['El día a día', 'Burocracia']",2,Ha llegado tarde,Vinicio Canales,opinion4.png
-69,Carolina Alberdi,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",2,Ha llegado tarde,Darío Seguí,miembroh3.png
-70,Irma Carbó,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Eugenia Arce,opinion3m.png
-71,Isabel Nieto,"['Amigos y Ocio', 'Servicios del Municipio']",4,Fue un día estupendo,Amaya Criado,miembrom4.png
-72,Dani Marin,"['Salud', 'El día a día', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Milagros Román,opinion4.png
-73,Trinidad Cruz,"['El día a día', 'Burocracia']",2,No ha ido mal,Óscar Rodríguez,opinion5m.png
-74,Wilfredo Acero,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,Tuvo muy poca paciencia,Amalia Valcárcel,opinion3m.png
-75,Lorenza Lago,"['Amigos y Ocio', 'Burocracia']",5,No hubiera podido estar más feliz,Blas Peláez,miembroh1.png
-76,Angelita Escalona,"['Amigos y Ocio', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Rolando Falcó,opinion4.png
-77,Anunciación Camino,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Violeta Calderón,miembrom4.png
-78,Sabina Martín,"['Amigos y Ocio', 'El día a día']",4,No puedo estar más agradecida,Calixta Gallo,opinion2m.png
-79,Prudencia Vera,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Calixto Viña,miembrom3.png
-80,Emelina Coronado,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Es muy amable,Amor Murcia,miembrom3.png
-81,Raúl Cuéllar,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Estoy contenta,Reina Farré,miembrom3.png
-82,Calista Abascal,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Asdrubal Villar,miembrom3.png
-83,Elena Morante,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Gracias,Olivia Ariza,opinion4.png
-84,Amaya Aliaga,"['El día a día', 'Burocracia']",3,Me ayudó mucho en casa,Juan Antonio Pavón,miembrom4.png
-85,Dani Parejo,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,Fue un día estupendo,Cebrián Arco,miembroh1.png
-86,Selena Meléndez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",4,No hubiera podido está más feliz,Maxi Tirado,opinion4.png
-87,Jose Barco,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Virginia Alcántara,opinion6.png
-88,Jose Angel Bermúdez,"['Salud', 'El día a día', 'Servicios del Municipio']",5,Fue un día estupendo,Clotilde Torrecilla,miembroh1.png
-89,Che Torre,"['Amigos y Ocio', 'Servicios del Municipio']",3,Me ayudó en lo que necesitaba,Leopoldo Bárcena,miembrom4.png
-90,Olalla Bayón,['Salud'],4,Es un encanto y me ayudó a hablar con mis nietos,Gloria Sales,opinion4.png
-91,Martirio Casas,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Gran dia,Alejo Pineda,miembrom3.png
-92,Eduardo Talavera,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Haroldo Bartolomé,opinion3m.png
-93,Carmela Dalmau,"['Salud', 'El día a día']",5,Sin duda seguiré utilizando este servicio,Fanny Luján,opinion1.png
-94,Juan Manuel Álamo,"['Nuevas Tecnologías', 'Salud']",2,No ha ido mal,Purificación Contreras,miembroh1.png
-95,Salud Rocha,"['Nuevas Tecnologías', 'Burocracia']",3,Me ha resuelto muchas dudas,Edelmira Sanabria,opinion2m.png
-96,Héctor Font,"['Salud', 'Amigos y Ocio']",2,Ha llegado tarde,Odalis Higueras,opinion4.png
-97,Leyre Mesa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Fue un día estupendo,Abilio Moles,opinion3m.png
-98,Sabas Perea,"['Amigos y Ocio', 'Burocracia']",3,Bien,Palmira Esteban,miembroh3.png
-99,Urbano Villar,"['Amigos y Ocio', 'Burocracia']",2,El servicio no estuvo mal,Jacinta Martin,opinion5m.png
-100,Vito Carrillo,"['El día a día', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Marisol Guitart,opinion5m.png
-101,Jose Miguel Gomila,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó en lo que necesitaba,Dolores Arenas,opinion1.png
-102,Bernardo Neira,"['Amigos y Ocio', 'Burocracia']",2,El servicio no estuvo mal,Julio Miranda,opinion1.png
-103,Alfonso Grau,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,El servicio no estuvo mal,Noelia Escolano,opinion2m.png
-104,Dionisia Giménez,['Servicios del Municipio'],3,No hemos terminado de congeniar pero ha estado bien,Macario Jáuregui,miembroh1.png
-105,Adrián Belda,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Amanda Pérez,opinion6.png
-106,Laura Barral,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Felisa Pastor,opinion6.png
-107,Jenaro Bauzà,"['Nuevas Tecnologías', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Eligio Vergara,miembrom4.png
-108,Vicenta Angulo,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Cecilio Hurtado,opinion1.png
-109,Rosalina Murillo,['Amigos y Ocio'],2,"Bueno, podría mejorar",Lorenza Rodriguez,opinion3m.png
-110,Calisto Vilaplana,"['El día a día', 'Burocracia']",2,Está normal,Amarilis Cabrero,opinion6.png
-111,Jordán Lopez,"['Amigos y Ocio', 'El día a día', 'Burocracia']",1,No habla mucho,Agustín Elías,opinion5m.png
-112,Haydée Torralba,"['Amigos y Ocio', 'El día a día']",2,No ha podido ayudarme en lo que necesitaba,Evangelina Cifuentes,miembroh3.png
-113,Iker Catalán,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No pudo ayudarme,Candela Elorza,opinion3m.png
-114,Loreto Suárez,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,Está normal,Rosalinda Guzmán,miembrom4.png
-115,Jose Carlos Ramírez,"['El día a día', 'Servicios del Municipio']",3,Gran dia,Cristóbal Villalobos,opinion2m.png
-116,Goyo Busquets,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,No puedo estar más agradecida,Albina Lumbreras,miembroh3.png
-117,Cleto Rosa,['El día a día'],5,Encantado con toda la ayuda que he recibido,Ignacia Valentín,opinion4.png
-118,Paulino Roda,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Edu Piquer,miembrom3.png
-119,Segismundo Solera,['Salud'],1,Al final tuvo que irse antes,Ruy Zorrilla,opinion5m.png
-120,Rosario Balaguer,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,No hemos terminado de congeniar pero ha estado bien,Claudio Amador,miembroh1.png
-121,Ignacia Cabello,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Hipólito Martín,opinion4.png
-122,Benjamín Quevedo,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Sergio Bellido,miembroh1.png
-123,Luisa Nicolau,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",1,No me arregló los papeles,Porfirio Piñol,opinion2m.png
-124,Nereida Canales,"['Salud', 'Amigos y Ocio']",3,Me ha ayudado en lo que le he pedido,Nilda Falcón,miembrom3.png
-125,Jose Ramón Feliu,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Pili Mata,opinion5m.png
-126,Goyo Sanabria,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No es muy habladora,Francisco Robles,opinion4.png
-127,Enrique Español,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Wilfredo Casals,opinion3m.png
-128,León Sevillano,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",4,No puedo estar más agradecida,Vinicio Toro,opinion5m.png
-129,Josep Benet,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Sandalio Ribera,miembrom4.png
-130,Venceslás Cabañas,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,Flavio Bas,opinion4.png
-131,Aureliano Alcolea,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",1,Tuvo muy poca paciencia,Susana Oliva,miembrom3.png
-132,Ciro Guzmán,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",2,No ha ido mal,Perlita Fuentes,opinion4.png
-133,Flavio Ramos,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No sabía lo que le pedía,Mar Rivero,miembrom4.png
-134,Amalia Teruel,"['Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Amalia Valdés,miembroh3.png
-135,Ignacio Quero,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",4,No puedo estar más agradecida,Flor Castilla,miembroh3.png
-136,Vanesa Cózar,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha resuelto muchas dudas,Cándida Aznar,miembroh1.png
-137,Reynaldo Abril,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Estoy contenta,Calixta Julián,opinion4.png
-138,Rosario Lara,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",2,Ha llegado tarde,Ascensión Aguado,miembrom4.png
-139,Ángeles Sanz,"['Salud', 'El día a día']",3,Estoy contenta,Gloria Vara,miembrom3.png
-140,Lucho Torrecilla,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,Aroa Álamo,miembroh1.png
-141,Fabián Falcó,"['Nuevas Tecnologías', 'Burocracia']",3,Me ha resuelto muchas dudas,Gracia Bermúdez,opinion1.png
-142,Manu Gelabert,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,Qué bien que pudo ayudarme con mis papeles,Edu Luna,opinion4.png
-143,Bautista Barrera,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Es muy amable,Vicente Sabater,opinion3m.png
-144,Mariana Mir,"['Nuevas Tecnologías', 'Salud', 'El día a día']",5,No hubiera podido estar más feliz,Sonia Montaña,opinion5m.png
-145,Baudelio Ayllón,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,El servicio no estuvo mal,Isidro Ledesma,opinion3m.png
-146,Daniela Tapia,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Daniela Mateos,opinion6.png
-147,Ani Criado,"['Salud', 'El día a día', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Juan Antonio Coloma,opinion4.png
-148,Baudelio Verdejo,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Me ayudó mucho en casa,Marianela Borrás,opinion2m.png
-149,Cecilio Estevez,"['Amigos y Ocio', 'El día a día', 'Burocracia']",2,Está normal,Jordi Pi,miembrom4.png
-150,Bruno Bayo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Débora Clavero,opinion6.png
-151,Imelda Gutierrez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Gran dia,Darío Cañas,opinion4.png
-152,Sancho Carretero,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",4,Fue un día estupendo,Catalina Sobrino,miembrom4.png
-153,Tania Hoz,"['Nuevas Tecnologías', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Galo Manzano,miembrom3.png
-154,Cristina Ariño,['Salud'],5,Sin duda seguiré utilizando este servicio,Dani Linares,opinion4.png
-155,Estefanía Bilbao,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado mucho,Lucas Azcona,miembrom3.png
-156,Simón Yáñez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Gran dia,Gaspar Zurita,opinion6.png
-157,Maximiano Julián,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Juanita Benet,opinion6.png
-158,Hernando Miralles,"['Amigos y Ocio', 'El día a día', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Tatiana Giménez,opinion2m.png
-159,Jorge Priego,"['Nuevas Tecnologías', 'Salud']",5,Fue un día estupendo,Cecilia Reguera,opinion4.png
-160,Eleuterio Marín,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Ha llegado tarde,Begoña Padilla,opinion3m.png
-161,Zacarías Molina,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",5,No hubiera podido estar más feliz,Chuy Gárate,opinion1.png
-162,Úrsula Belmonte,"['El día a día', 'Burocracia']",3,Me ha ayudado mucho,Chita Segarra,miembroh1.png
-163,Agapito Sedano,['Amigos y Ocio'],2,El servicio no estuvo mal,Anita Valbuena,miembroh1.png
-164,Ester Cabo,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Bien,César Doménech,opinion6.png
-165,Candelario Garcés,['Nuevas Tecnologías'],2,Ha llegado tarde,Nayara Acuña,opinion4.png
-166,Antonia Cazorla,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,No sabía lo que le pedía,Josué Hervás,opinion6.png
-167,Paco Bayona,"['Amigos y Ocio', 'Servicios del Municipio']",2,El servicio no estuvo mal,Felisa Iborra,miembrom4.png
-168,Serafina Hidalgo,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,Llegó tarde,Alex Ferrando,miembroh1.png
-169,Rafael López,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",4,Es un encanto y me ayudó a hablar con mis nietos,Eva Morán,miembrom3.png
-170,Fausto Ríos,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,El día podría haber estado mejor,Edelmiro Baeza,miembroh3.png
-171,Perla Mate,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Un día agradable,Marcela Lledó,miembroh3.png
-172,Emma Ángel,"['Amigos y Ocio', 'Burocracia']",5,Me ayudó mucho en casa,Gerónimo Somoza,miembroh1.png
-173,Adán Marí,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,Fue un día estupendo,Cándida Menéndez,opinion4.png
-174,Gracia Calleja,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Está normal,Gil Fuster,opinion5m.png
-175,Selena Cañizares,"['Salud', 'El día a día']",4,No hubiera podido está más feliz,Carmelo Domínguez,opinion1.png
-176,Juan Luis Carlos,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Jose Luis Daza,miembrom3.png
-177,Tania Campo,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó en lo que necesitaba,Andrés Báez,opinion1.png
-178,Manuelita Lladó,"['Burocracia', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Ignacio Sánchez,opinion4.png
-179,Lope Galvez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,Socorro Recio,miembroh1.png
-180,Liliana Novoa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Raquel Ballesteros,opinion1.png
-181,Herminio Laguna,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Macario Expósito,opinion5m.png
-182,Anselma Torres,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Ha estado bien,Dulce Gonzalo,opinion2m.png
-183,José Azcona,"['Salud', 'El día a día', 'Servicios del Municipio']",1,No me entendía,Aurelio Tena,miembroh3.png
-184,Cirino Lloret,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Arturo Ríos,miembrom3.png
-185,Arsenio Acevedo,"['Nuevas Tecnologías', 'Amigos y Ocio']",3,Me ha resuelto muchas dudas,Ainoa Garmendia,opinion4.png
-186,Nazario Castrillo,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Un día agradable,Adriana Cáceres,miembrom4.png
-187,Febe Juárez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",1,No me ayudó nada,Carmelita Flores,miembroh1.png
-188,Felix Sala,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,No hubiera podido está más feliz,Melisa Melero,miembrom4.png
-189,Carmen Roma,"['Salud', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Eusebio Salazar,opinion2m.png
-190,Chelo Agustí,"['Amigos y Ocio', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Salomón González,opinion4.png
-191,Dani Company,['El día a día'],4,Fue un día estupendo,Viviana Requena,opinion6.png
-192,Caridad Araujo,"['Salud', 'Burocracia']",1,Llegó tarde,Genoveva Pomares,miembroh1.png
-193,Perlita Peiró,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Cipriano Vallejo,opinion4.png
-194,Dafne Colomer,['Servicios del Municipio'],4,Es un encanto y me ayudó a hablar con mis nietos,Socorro Morera,opinion5m.png
-195,Tito Castell,"['Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Jaime Villa,opinion2m.png
-196,Ariel Mendez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",2,No sabía lo que le pedía,Héctor Arellano,opinion3m.png
-197,Pánfilo Pallarès,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",1,No habla mucho,Arsenio Rubio,opinion5m.png
-198,Humberto Iborra,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",3,Me ha resuelto muchas dudas,Noa Baños,miembrom3.png
-199,Griselda Calderon,"['Salud', 'Burocracia', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Magdalena Lerma,miembrom4.png
-200,Paulino Cortes,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Leonardo Baena,miembroh3.png
-201,Ángela Cámara,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",2,"Bueno, podría mejorar",Luis Ángel Gabaldón,opinion3m.png
-202,Nereida Elorza,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,David Ramirez,miembroh3.png
-203,Socorro Revilla,"['El día a día', 'Servicios del Municipio']",3,Me acompañó en lo que necesitaba,Alma Alvarez,miembrom4.png
-204,Amador Escobar,"['Salud', 'Burocracia']",1,No me ayudó nada,Aurora Jaume,miembrom3.png
-205,Maite Márquez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Está normal,Néstor Rivera,miembrom3.png
-206,Micaela Requena,['Amigos y Ocio'],1,Al final tuvo que irse antes,María Manuela Roselló,miembroh3.png
-207,Nidia Hurtado,['El día a día'],3,Un día agradable,Eloy Mariscal,opinion4.png
-208,Juanito Campoy,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Leire Llanos,miembroh1.png
-209,Roberto Arias,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me entendía,Charo Martorell,opinion4.png
-210,Rosa María Sosa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,Al final tuvo que irse antes,Rico Vila,miembrom3.png
-211,Iván Flores,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Reyes Sacristán,opinion5m.png
-212,Olga Seguí,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",4,No hubiera podido está más feliz,Poncio Serrano,opinion6.png
-213,Pancho Mayoral,['Amigos y Ocio'],2,"Bueno, podría mejorar",Marcelo Cisneros,miembroh3.png
-214,Otilia Gisbert,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Llegó tarde,Valentín Carlos,opinion5m.png
-215,Amado Ferrando,"['El día a día', 'Servicios del Municipio']",5,Fue un día estupendo,Ernesto Piñeiro,miembrom3.png
-216,Sabas Moya,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Luis Ángel Castejón,opinion2m.png
-217,León Lorenzo,['Burocracia'],2,Ha llegado tarde,José Catalán,miembrom3.png
-218,Pascual Vergara,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No sabía lo que le pedía,Clarisa Chamorro,miembrom4.png
-219,Salomón Muñoz,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Juanita Mena,opinion3m.png
-220,Amaro Arenas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,"Bueno, podría mejorar",Mamen Cardona,opinion6.png
-221,César Rovira,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,Tomás Figueras,miembroh1.png
-222,Onofre Rubio,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Maite Rozas,miembroh3.png
-223,Eloísa Vidal,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Jordi Aranda,miembrom3.png
-224,David Plaza,"['Nuevas Tecnologías', 'Salud']",2,Está normal,Goyo Jimenez,miembrom4.png
-225,Trinidad Falcón,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Es amable aunque no divertida,Áurea Caro,miembrom3.png
-226,José Manuel Arregui,['Burocracia'],5,Encantado con toda la ayuda que he recibido,Cándido Moliner,miembroh3.png
-227,Leandra Abellán,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,"Bueno, podría mejorar",Cristina Vallés,opinion1.png
-228,Aurora Figueras,"['Salud', 'Burocracia', 'Servicios del Municipio']",1,No pudo ayudarme,Teófila Botella,miembrom4.png
-229,Prudencio Rosado,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Cloe Lamas,miembroh3.png
-230,Buenaventura Mas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Leonel Bueno,opinion1.png
-231,Anunciación Mendoza,"['Nuevas Tecnologías', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Leocadio Bauzà,opinion5m.png
-232,Griselda Real,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Rebeca Hernández,opinion1.png
-233,Nacho Marqués,['Nuevas Tecnologías'],2,No sabía lo que le pedía,Américo Moya,miembroh1.png
-234,Casandra Castejón,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,Es un encanto y me ayudó a hablar con mis nietos,Jaime Barral,miembrom3.png
-235,Gregorio Rivero,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Me acompañó en lo que necesitaba,Benigno Folch,miembrom3.png
-236,Graciana Pinilla,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Marciano Teruel,opinion2m.png
-237,Inés Dávila,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Mariana Romero,miembroh3.png
-238,Encarnación Mascaró,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Amparo Hoz,miembroh3.png
-239,Santiago Abad,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,César Tudela,opinion1.png
-240,Marco Madrid,"['El día a día', 'Burocracia']",1,El día podría haber estado mejor,Dionisio Baquero,opinion5m.png
-241,Humberto Ropero,"['El día a día', 'Burocracia']",1,No me pudo acompañar donde yo quería,Raimundo Giralt,opinion6.png
-242,Mireia Montserrat,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",2,El servicio no estuvo mal,Amalia Esparza,miembrom3.png
-243,Adela Salamanca,"['Nuevas Tecnologías', 'Amigos y Ocio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Corona Espada,opinion2m.png
-244,Imelda García,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",1,El día podría haber estado mejor,Teodosio Jódar,opinion5m.png
-245,Ariadna Sáenz,"['Amigos y Ocio', 'El día a día']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Sofía Rosa,opinion3m.png
-246,Nadia Doménech,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,No puedo estar más agradecida,Javiera Almansa,opinion1.png
-247,Genoveva Blazquez,"['El día a día', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Baudelio Barbero,opinion3m.png
-248,Loreto Villalba,['El día a día'],5,Sin duda seguiré utilizando este servicio,Julián Polo,miembroh1.png
-249,Gracia Naranjo,['Servicios del Municipio'],5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Elvira Arribas,opinion4.png
-250,Ciro Menéndez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Iván Avilés,opinion6.png
-251,Jafet Colom,['Nuevas Tecnologías'],3,Gran dia,María Teresa Plaza,miembroh3.png
-252,Amador Arteaga,"['Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Iris Pascual,miembroh1.png
-253,Jose Ignacio Beltran,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No es muy habladora,Francisco Javier Villalba,miembroh3.png
-254,Xavier Ribas,['Servicios del Municipio'],2,No terminó de ayudarme,Lara Lasa,opinion3m.png
-255,Soraya Ferreras,"['Salud', 'Burocracia']",5,Me ayudó mucho en casa,Cándida Barroso,opinion1.png
-256,Lina Plana,['Nuevas Tecnologías'],2,No ha podido ayudarme en lo que necesitaba,Lupita Guillen,miembroh1.png
-257,Ana Belén Pulido,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Alexandra Portillo,miembrom3.png
-258,Jose Francisco Coloma,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me lo he pasado bien,Ana Sofía Gomila,miembroh1.png
-259,Gabriela Adán,"['Amigos y Ocio', 'El día a día']",4,No puedo estar más agradecida,Macarena Monreal,opinion2m.png
-260,Teodora Campillo,"['Amigos y Ocio', 'El día a día', 'Burocracia']",1,No pudo ayudarme,Jose Francisco Ibañez,opinion3m.png
-261,Melania Rodríguez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",3,Estoy contenta,Soledad Olmedo,opinion6.png
-262,Isidoro Echeverría,"['Burocracia', 'Servicios del Municipio']",5,Me ayudó mucho en casa,Carmen Salas,miembrom3.png
-263,Nilda Villaverde,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Baldomero Sanchez,opinion2m.png
-264,Abril Ibañez,"['El día a día', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Narcisa Pazos,miembrom4.png
-265,Yéssica Carrión,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me arregló los papeles,María Carmen Otero,miembroh1.png
-266,Yago Cañellas,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Natanael Duque,opinion3m.png
-267,Nicolasa Sobrino,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Jimena Fajardo,opinion5m.png
-268,Guadalupe Molins,"['El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Remedios Montalbán,opinion3m.png
-269,Marisol Salas,"['Amigos y Ocio', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",José Ángel Armengol,opinion3m.png
-270,Emperatriz Vargas,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,Es un encanto y me ayudó a hablar con mis nietos,Artemio Blanca,opinion6.png
-271,Teodosio Salmerón,"['El día a día', 'Burocracia']",4,No puedo estar más agradecida,Nélida Conde,miembrom3.png
-272,Teófila Cuenca,"['El día a día', 'Servicios del Municipio']",1,No me entendía,Anselma Correa,opinion6.png
-273,Mar Taboada,"['Salud', 'Servicios del Municipio']",1,No me arregló los papeles,Antonia Aroca,opinion3m.png
-274,Vinicio Jove,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Florentino Galindo,opinion5m.png
-275,Maricruz Huertas,"['Nuevas Tecnologías', 'Burocracia']",4,No hubiera podido está más feliz,Ulises Donaire,opinion3m.png
-276,Priscila Lluch,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Virgilio Benito,miembrom4.png
-277,María Dolores Vázquez,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No me arregló los papeles,Morena Vega,opinion5m.png
-278,Amada Haro,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me entendía,Iris Mesa,miembroh1.png
-279,Leonardo Sabater,"['El día a día', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Lope Olivares,opinion1.png
-280,Casemiro Macias,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",4,No hubiera podido está más feliz,Artemio Navarro,miembroh1.png
-281,Joel Llabrés,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Ha estado bien,Trini Manuel,opinion3m.png
-282,Nico Montenegro,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me arregló los papeles,Visitación Reig,miembroh1.png
-283,Teodora Berrocal,['Nuevas Tecnologías'],1,Llegó tarde,Magdalena Company,opinion2m.png
-284,Emiliano Contreras,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Juan Pablo Revilla,opinion6.png
-285,Jerónimo Piñol,"['Salud', 'Burocracia']",4,Fue un día estupendo,Noemí Delgado,opinion4.png
-286,Joaquina Corominas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,No sabía lo que le pedía,Adela Zaragoza,opinion2m.png
-287,Lara Gargallo,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Ester Camps,miembrom4.png
-288,Bernardo Ribera,"['Salud', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Melchor Rueda,miembroh1.png
-289,Saturnino Muro,"['Nuevas Tecnologías', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Galo Galan,opinion5m.png
-290,Candela Solano,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Roberta Alonso,miembrom3.png
-291,Severo Barrios,"['Salud', 'El día a día', 'Servicios del Municipio']",3,Gracias,Maribel Carbajo,miembrom3.png
-292,Hilario Rivera,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Iván Capdevila,miembrom3.png
-293,Roque Aller,"['Salud', 'Amigos y Ocio']",2,El servicio no estuvo mal,Enrique Córdoba,opinion6.png
-294,Rocío Pintor,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",1,No me pudo acompañar donde yo quería,Pili Estevez,opinion4.png
-295,Albina Aguado,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Eugenia Pedrero,opinion3m.png
-296,Pastor Porta,"['Nuevas Tecnologías', 'Servicios del Municipio']",1,No me entendía,Guadalupe Alberto,opinion1.png
-297,Reyna Rius,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,Candelario Ibáñez,miembroh3.png
-298,Bárbara Torrents,"['Amigos y Ocio', 'El día a día']",3,No hemos terminado de congeniar pero ha estado bien,Custodio Roca,opinion6.png
-299,Isidoro Llamas,"['Salud', 'Amigos y Ocio']",3,Me acompañó en lo que necesitaba,Rosario Martinez,opinion2m.png
-300,Tristán Andres,"['Nuevas Tecnologías', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Adán Coca,opinion4.png
-301,Roque Navarrete,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Rosalía Valenzuela,opinion2m.png
-302,Guiomar Quiroga,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,Margarita Flor,opinion4.png
-303,Lourdes Solsona,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,No hubiera podido estar más feliz,Úrsula Simó,opinion3m.png
-304,Zaira Amores,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No me arregló los papeles,Íngrid Escalona,opinion6.png
-305,Victoria Prada,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",3,Ha estado bien,Tadeo Rincón,opinion2m.png
-306,Dora Blanes,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Ha estado bien,Adán Herrera,opinion1.png
-307,Fernanda Cerdá,"['Salud', 'El día a día', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Gilberto Pelayo,miembroh1.png
-308,Roxana Serrano,"['Nuevas Tecnologías', 'El día a día']",5,No hubiera podido estar más feliz,Febe Gual,opinion4.png
-309,Germán Juan,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Llegó tarde,Víctor Granados,opinion2m.png
-310,Reynaldo Morán,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",2,No ha ido mal,Nazario Perelló,miembroh3.png
-311,Héctor Morillo,"['Salud', 'Amigos y Ocio']",2,"Bueno, podría mejorar",Donato Ros,opinion3m.png
-312,Nicolás Robles,['Burocracia'],2,Puede mejorar,Palmira Armas,opinion4.png
-313,José Antonio Azorin,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Ezequiel Benitez,miembroh1.png
-314,Pancho Gomez,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No habla mucho,León Paredes,opinion5m.png
-315,Florentina Arjona,"['Salud', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Marcelo Camacho,miembrom4.png
-316,Marisela Anguita,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me lo he pasado bien,Enrique Aramburu,opinion6.png
-317,Jose Miguel Almagro,"['Nuevas Tecnologías', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Aitana Gimeno,opinion1.png
-318,Ester Gómez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",4,No puedo estar más agradecida,Berto Marin,opinion4.png
-319,Edmundo Gibert,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Bien,Chus Cerezo,opinion2m.png
-320,Adela Jaén,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Jafet Lobato,miembroh3.png
-321,María Fernanda Peinado,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Anselma Rivas,opinion3m.png
-322,Florencio Céspedes,"['Nuevas Tecnologías', 'Salud']",2,Está normal,Bibiana Pacheco,miembroh1.png
-323,María Amigó,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,Zaida Calvo,opinion2m.png
-324,Úrsula Perez,"['Nuevas Tecnologías', 'Salud', 'El día a día']",2,No ha podido ayudarme en lo que necesitaba,Encarna Agudo,opinion1.png
-325,Régulo Fiol,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Sin duda seguiré utilizando este servicio,Juan Luis Carreras,miembroh3.png
-326,Carlos Herrero,"['Nuevas Tecnologías', 'Burocracia']",2,No ha podido ayudarme en lo que necesitaba,Modesta Viana,opinion2m.png
-327,Cristian Mata,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me lo he pasado bien,Yago Cabo,miembrom3.png
-328,Remedios Armengol,"['El día a día', 'Burocracia']",3,Estoy contenta,Itziar Garzón,opinion2m.png
-329,Ovidio Velasco,"['Amigos y Ocio', 'Servicios del Municipio']",3,Ha estado bien,Eloísa Ferrero,opinion5m.png
-330,Flora Nogueira,"['Nuevas Tecnologías', 'Servicios del Municipio']",2,No ha ido mal,Lalo Francisco,opinion6.png
-331,Albano Trillo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Estoy contenta,Luz Poza,miembroh3.png
-332,Curro Rosselló,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó en lo que necesitaba,Herberto Águila,miembrom4.png
-333,Porfirio Segura,['Salud'],1,No es muy habladora,Hugo Prada,opinion6.png
-334,Laura Rozas,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Guiomar Machado,miembrom3.png
-335,Gabriel Vélez,"['Nuevas Tecnologías', 'Amigos y Ocio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Ani Batlle,opinion6.png
-336,Florina León,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Edu Escobar,opinion6.png
-337,Encarnación Tomás,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Armida Marti,miembroh3.png
-338,Adela Ruano,"['Salud', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Ámbar Patiño,miembroh3.png
-339,Paola Ledesma,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,No hemos terminado de congeniar pero ha estado bien,Herberto Toledo,opinion1.png
-340,Mohamed Higueras,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Manuela Huerta,opinion1.png
-341,Paulina Bolaños,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Me ayudó en lo que necesitaba,Curro Sevilla,miembroh3.png
-342,León Sanmartín,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",5,No puedo estar más agradecida,Nélida Aragonés,opinion3m.png
-343,Jose Francisco Andrade,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",2,"Bueno, podría mejorar",Reina Márquez,opinion6.png
-344,Ana Belén Morcillo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",1,El día podría haber estado mejor,Camilo Royo,miembrom4.png
-345,Germán Torrent,"['Amigos y Ocio', 'Burocracia']",4,No puedo estar más agradecida,Ileana Pagès,opinion6.png
-346,Ibán Pacheco,['El día a día'],1,Al final tuvo que irse antes,Jose Carlos Puig,opinion3m.png
-347,Nayara Jordán,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,Ha llegado tarde,Regina Pardo,miembrom4.png
-348,Noé Losa,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Valerio Narváez,opinion5m.png
-349,Silvia Llorente,"['Nuevas Tecnologías', 'El día a día']",1,No me entendía,Julio Mancebo,opinion1.png
-350,Cayetana Agustín,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Nicolás Alegre,opinion5m.png
-351,Asunción Feijoo,"['El día a día', 'Servicios del Municipio']",3,Ha estado muy bien,Calista Antúnez,opinion3m.png
-352,Che Hernández,"['Salud', 'Servicios del Municipio']",4,Fue un día estupendo,Pastor Grau,opinion2m.png
-353,Lola Hernandez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,El servicio no estuvo mal,Tito Pedro,miembroh3.png
-354,Jessica Tamayo,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",3,Es muy amable,Ale Calderon,opinion4.png
-355,Flavia Tudela,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Guillermo Niño,miembrom4.png
-356,Victorino Alemany,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,No hubiera podido estar más feliz,Brígida Castells,opinion1.png
-357,Ciro Mariscal,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,No hubiera podido está más feliz,Rolando Pablo,miembroh3.png
-358,Ismael Hervia,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Matías Yáñez,opinion6.png
-359,Mariano Roig,"['El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Pánfilo Estévez,miembrom3.png
-360,Marcia Ortiz,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,Anita Carro,opinion4.png
-361,Julia Santiago,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Dorita Casado,opinion3m.png
-362,Kike Medina,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Guadalupe Llobet,opinion4.png
-363,José Gual,"['Nuevas Tecnologías', 'Salud']",1,No habla mucho,Arcelia Isern,opinion6.png
-364,Dionisio Fernández,"['Salud', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Toni Albero,miembroh1.png
-365,Maximiano Carreras,"['El día a día', 'Servicios del Municipio']",2,Puede mejorar,Roque Pallarès,opinion6.png
-366,Manuelita Esteve,"['Amigos y Ocio', 'Servicios del Municipio']",2,Es amable aunque no divertida,Ricarda Pinilla,miembroh1.png
-367,Gregorio Gascón,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Marco Díez,opinion2m.png
-368,Mamen Tomé,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",5,Me ayudó mucho en casa,Verónica Burgos,opinion3m.png
-369,Leonel Zamorano,['El día a día'],1,No habla mucho,Loreto Quirós,miembrom4.png
-370,Edelmira Luna,"['Salud', 'El día a día', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Susanita Marcos,miembrom3.png
-371,Cornelio Ferrera,['Servicios del Municipio'],4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Griselda Blazquez,miembrom4.png
-372,Manu Gordillo,"['Salud', 'El día a día']",1,No me ayudó nada,Margarita Torralba,opinion1.png
-373,Poncio Alcalá,"['Nuevas Tecnologías', 'Burocracia']",2,Está normal,Rogelio Luís,opinion1.png
-374,Leandra Castañeda,"['El día a día', 'Servicios del Municipio']",3,Gran dia,Encarnita Clemente,miembroh1.png
-375,Leocadio Arroyo,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Santos Pinto,opinion5m.png
-376,Baltasar Manzano,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Silvio Ferrer,opinion3m.png
-377,José Cases,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Bien,Marcial Boada,miembroh1.png
-378,Felicia Alberola,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Norberto Solera,opinion3m.png
-379,Consuela Luís,"['Salud', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Bernardino Bautista,opinion1.png
-380,Adora Tejero,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Fabián Osuna,miembrom3.png
-381,Valero Niño,"['Salud', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Lupe Fabra,miembroh3.png
-382,Gerónimo Aznar,"['Amigos y Ocio', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Natalia Reyes,miembrom3.png
-383,José Antonio Tejedor,['Nuevas Tecnologías'],2,Está normal,Rogelio Castell,opinion1.png
-384,Danilo Bas,"['Amigos y Ocio', 'Burocracia']",2,No ha ido mal,Azeneth Donoso,miembrom4.png
-385,Salvador Téllez,"['Nuevas Tecnologías', 'Salud']",2,El servicio no estuvo mal,Roberta Blasco,opinion4.png
-386,Candelario Baeza,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Felicidad Bernad,opinion1.png
-387,Evaristo Mateu,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Miguel Ángel Arjona,opinion2m.png
-388,Che Carrasco,"['Amigos y Ocio', 'Burocracia']",5,Fue un día estupendo,Fermín Fonseca,miembroh3.png
-389,Celestina Rico,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,No ha ido mal,Mario Ugarte,opinion3m.png
-390,Eloísa Gonzalez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",3,Me ha ayudado en lo que le he pedido,Baldomero Campos,opinion2m.png
-391,Maura Sanjuan,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Ha llegado tarde,Clarisa Cañellas,miembroh1.png
-392,Violeta Martinez,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Ha podido ayudarme en algunas cosas,Esther Tejada,miembroh3.png
-393,Rosalina Romeu,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",2,Ha llegado tarde,Dimas Alfaro,miembroh1.png
-394,Marcos Barrena,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó en lo que necesitaba,Celso Lluch,opinion6.png
-395,Emilia Cabezas,"['Nuevas Tecnologías', 'Amigos y Ocio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Pastor Serna,opinion3m.png
-396,María Carmen Galiano,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",1,El día podría haber estado mejor,Anastasio Villanueva,opinion5m.png
-397,Eufemia Bertrán,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,No puedo estar más agradecida,Charo Cerro,miembrom3.png
-398,Faustino Heredia,"['Nuevas Tecnologías', 'Amigos y Ocio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Socorro Mate,opinion2m.png
-399,Fulgencio Benavides,"['Amigos y Ocio', 'El día a día', 'Burocracia']",1,Al final tuvo que irse antes,Saturnino Milla,miembroh1.png
-400,Faustino Acedo,"['Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Samu Miguel,miembroh1.png
-401,Sebastian Soriano,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Ha estado bien,Andrés Silva,opinion3m.png
-402,Lupe Antúnez,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No es muy habladora,Brunilda Hervia,opinion2m.png
-403,Jesús Maldonado,"['El día a día', 'Burocracia', 'Servicios del Municipio']",2,Está normal,Pastora Abril,miembroh1.png
-404,Lara Guillen,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Ana Rosales,miembroh1.png
-405,Ámbar Figuerola,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",2,Está normal,Custodia Vidal,opinion2m.png
-406,Teodoro Cardona,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,No hemos terminado de congeniar pero ha estado bien,Margarita Varela,miembrom4.png
-407,Candelas Larrañaga,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Sonia Cerdá,miembrom4.png
-408,Pascuala Cisneros,"['Nuevas Tecnologías', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Estefanía Casanovas,opinion6.png
-409,Calixto Barreda,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",3,Ha estado muy bien,Ibán Gaya,miembroh3.png
-410,Fito Malo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Cruz Valenciano,miembroh3.png
-411,Valentín Casanova,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,No sabía lo que le pedía,Zacarías Viñas,opinion4.png
-412,Adelina Vall,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",3,Me ha resuelto muchas dudas,Agustina Manrique,miembroh1.png
-413,Calista Uribe,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Paulino Carpio,opinion4.png
-414,Urbano Bernat,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Juanita Alcalá,miembroh1.png
-415,Elba Rosales,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,Llegó tarde,Remedios Alfonso,miembrom4.png
-416,Macaria Mora,"['Nuevas Tecnologías', 'Salud']",2,No ha podido ayudarme en lo que necesitaba,Guadalupe Diaz,opinion2m.png
-417,Elisabet Ibáñez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Me ayudó mucho en casa,Rosalina Sanmartín,opinion5m.png
-418,Amancio Bravo,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",3,Me ayudó mucho en casa,Claudio Barco,opinion5m.png
-419,Jenaro Almansa,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me pudo acompañar donde yo quería,Régulo Heras,opinion3m.png
-420,María Del Carmen Leon,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",3,Gran dia,Eric Planas,opinion4.png
-421,Corona Díez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Carlota Aparicio,miembroh1.png
-422,Adoración Villena,"['Salud', 'Burocracia']",4,Fue un día estupendo,María José Moll,opinion3m.png
-423,Florinda Escudero,"['Salud', 'Burocracia']",2,No sabía lo que le pedía,Álvaro Abascal,miembroh3.png
-424,Delfina Bou,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,José Cañizares,miembroh1.png
-425,Adoración Oliveras,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Anacleto Riba,miembrom3.png
-426,Sebastian Mínguez,"['Salud', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Candelario Vigil,miembrom3.png
-427,Miguel Ángel Calvo,"['Nuevas Tecnologías', 'Servicios del Municipio']",2,No sabía lo que le pedía,Eliana Torres,opinion4.png
-428,Rosa Cuevas,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Está normal,Cristina Rodrigo,miembroh3.png
-429,Narciso Valbuena,"['Nuevas Tecnologías', 'Salud', 'El día a día']",5,Es un encanto y me ayudó a hablar con mis nietos,Dan Valle,opinion5m.png
-430,Luis Pérez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,Puede mejorar,Florinda Romeu,opinion3m.png
-431,Odalys Arco,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Maximiliano Beltrán,opinion2m.png
-432,Wálter Borja,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Sin duda seguiré utilizando este servicio,Julia Orozco,miembroh1.png
-433,Maxi Iniesta,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,No hubiera podido está más feliz,Carina Riera,opinion2m.png
-434,Moisés Carmona,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",3,Gracias,Ale Verdejo,opinion2m.png
-435,María Teresa Quintero,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado mucho,Haroldo Ribes,opinion1.png
-436,Rosaura Vilar,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Estoy contenta,Emiliano Figueroa,miembroh3.png
-437,Paloma Abella,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Esmeralda Chacón,miembrom4.png
-438,Gema Reyes,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Luis Miguel Valderrama,opinion2m.png
-439,Baltasar Expósito,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado mucho,Moisés Parra,opinion3m.png
-440,Aura Valentín,"['Salud', 'Amigos y Ocio']",1,No pudo ayudarme,Juanito Palomo,opinion3m.png
-441,Eufemia Frutos,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,No hemos terminado de congeniar pero ha estado bien,Julián Castrillo,opinion4.png
-442,Juanito Castro,"['Salud', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Eugenio Sevillano,miembrom4.png
-443,Áurea Maestre,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Emilia Paz,miembroh3.png
-444,Urbano Tormo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",3,Ha podido ayudarme en algunas cosas,Guillermo Pons,miembroh3.png
-445,Domingo Heras,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Epifanio Garcés,miembrom3.png
-446,Leire Cuadrado,['Nuevas Tecnologías'],4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Atilio Ribas,opinion6.png
-447,María Raya,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Angélica Lorenzo,miembrom4.png
-448,Ciro Carballo,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Renato Morante,miembrom4.png
-449,Íñigo Carpio,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,No hubiera podido está más feliz,Jorge Huguet,opinion1.png
-450,Flora Correa,"['Salud', 'El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Imelda Montero,miembroh3.png
-451,Andrea Manzanares,"['Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,Petrona Tejero,opinion3m.png
-452,Araceli Llano,"['El día a día', 'Servicios del Municipio']",3,No hemos terminado de congeniar pero ha estado bien,José Ángel Murillo,opinion5m.png
-453,Severo Tolosa,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Fue un día estupendo,Débora Font,miembroh3.png
-454,Agustina Hervás,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Lorenzo Porras,opinion1.png
-455,Yago Coca,"['Nuevas Tecnologías', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Jose Carlos Izaguirre,opinion1.png
-456,Rodolfo Farré,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Patricio Morcillo,opinion4.png
-457,África Cerezo,"['Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Teodosio Valencia,miembrom3.png
-458,Rosario Lastra,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Me ayudó mucho en casa,Lourdes Salmerón,opinion5m.png
-459,Otilia Tovar,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Tamara Alsina,miembrom4.png
-460,Rosenda Comas,"['Salud', 'Servicios del Municipio']",1,No habla mucho,Florina Garay,miembroh3.png
-461,Victoriano Ochoa,"['Nuevas Tecnologías', 'El día a día']",4,Fue un día estupendo,Roxana Ramírez,opinion1.png
-462,Nazaret Pi,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Casandra Escamilla,opinion5m.png
-463,Xavier Fabregat,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,No puedo estar más agradecida,Maximino García,opinion6.png
-464,José Reig,"['El día a día', 'Burocracia']",5,No puedo estar más agradecida,Hermenegildo Talavera,miembroh1.png
-465,Armando Monreal,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Está normal,Eusebio Pareja,opinion4.png
-466,Marcela Piquer,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",1,Al final tuvo que irse antes,Encarnacion Vilaplana,opinion5m.png
-467,Rolando Cornejo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Loida Pina,miembrom4.png
-468,Ana Sofía Vallés,['Burocracia'],1,No pudo ayudarme,Felipe Aguilar,opinion1.png
-469,Dominga Mármol,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",2,No ha ido mal,Dionisio Guardia,opinion2m.png
-470,Ruth Cabrera,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Asunción Alemán,opinion2m.png
-471,Sandra Sacristán,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Augusto Juárez,miembroh1.png
-472,Cornelio Zorrilla,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Clotilde Jerez,opinion1.png
-473,Visitación Saura,"['Amigos y Ocio', 'Burocracia']",3,Me ayudó mucho en casa,Felipe Yuste,miembroh1.png
-474,Albino Cobos,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,María Gordillo,opinion4.png
-475,Sebastián Soria,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Juana Cervantes,miembroh3.png
-476,Merche Nevado,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,Al final tuvo que irse antes,Brígida Amores,miembrom4.png
-477,Estrella Puga,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,Es un encanto y me ayudó a hablar con mis nietos,Tecla Zabaleta,opinion1.png
-478,Florentina Pinto,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Vera Conesa,opinion2m.png
-479,Maximiliano Guitart,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Daniela Amaya,opinion5m.png
-480,Evangelina Madrigal,"['Salud', 'Burocracia']",1,No pudo ayudarme,Viviana Durán,miembroh3.png
-481,Javi Botella,"['El día a día', 'Burocracia']",1,El día podría haber estado mejor,Jose Angel Gomez,miembrom3.png
-482,Toño Salcedo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,Samanta Cañete,opinion6.png
-483,Flavio Palmer,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Inés Mora,opinion6.png
-484,Reinaldo Coello,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,El día podría haber estado mejor,Juan José Carreño,opinion2m.png
-485,Jose Ignacio Escolano,"['El día a día', 'Servicios del Municipio']",2,No ha ido mal,Lalo Andreu,opinion1.png
-486,Francisco Piñeiro,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Epifanio Grande,opinion2m.png
-487,Estefanía Hernando,"['Salud', 'Amigos y Ocio']",5,Qué bien que pudo ayudarme con mis papeles,Albert Salcedo,miembrom4.png
-488,Anastasia Clemente,"['El día a día', 'Burocracia']",2,No ha ido mal,Febe Méndez,opinion1.png
-489,Jesús Serra,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Ha estado muy bien,María Carmen Ramón,opinion6.png
-490,Felicia Izquierdo,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Carmina Arcos,opinion4.png
-491,Ángel Jara,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Conrado Pereira,opinion1.png
-492,Griselda Sola,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Eli Villena,opinion2m.png
-493,Valentina Benavent,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,El servicio no estuvo mal,Josep Campo,opinion4.png
-494,Vasco Ojeda,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",1,Tuvo muy poca paciencia,Glauco Balaguer,miembroh1.png
-495,Diana Martínez,"['Amigos y Ocio', 'Servicios del Municipio']",4,No puedo estar más agradecida,Abril Lladó,opinion2m.png
-496,Feliciana Rodrigo,"['Amigos y Ocio', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Agapito Juan,opinion6.png
-497,Jenny Matas,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Eliseo Campoy,opinion3m.png
-498,Heliodoro Planas,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Ha podido ayudarme en algunas cosas,Rafa Angulo,miembroh3.png
-499,Reyna Tomas,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Eusebia Sans,miembrom3.png
-500,Jose Ramón Feliu,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Inmaculada Trillo,opinion4.png
-501,Goyo Sanabria,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Isabela Hierro,opinion6.png
-502,Enrique Español,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Brígida Solana,miembrom4.png
-503,León Sevillano,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",2,No terminó de ayudarme,Tristán Barrios,opinion3m.png
-504,Josep Benet,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Alexandra Solano,miembroh1.png
-505,Venceslás Cabañas,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",1,No me entendía,Samu Arranz,opinion6.png
-506,Aureliano Alcolea,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",1,No me ayudó nada,Hector Macias,opinion5m.png
-507,Ciro Guzmán,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Danilo Berenguer,miembrom3.png
-508,Flavio Ramos,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Macario Bertrán,opinion1.png
-509,Amalia Teruel,"['Burocracia', 'Servicios del Municipio']",2,Ha llegado tarde,Julián Tamarit,opinion5m.png
-510,Ignacio Quero,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",2,Está normal,Natividad Adadia,miembrom3.png
-511,Vanesa Cózar,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me pudo acompañar donde yo quería,Toni Cruz,opinion1.png
-512,Reynaldo Abril,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Juliana Iriarte,opinion2m.png
-513,Rosario Lara,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",2,Ha llegado tarde,Feliciana Navarrete,miembrom4.png
-514,Ángeles Sanz,"['Salud', 'El día a día']",2,Está normal,Yéssica Carrasco,opinion1.png
-515,Lucho Torrecilla,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Sandalio Gámez,miembrom3.png
-516,Fabián Falcó,"['Nuevas Tecnologías', 'Burocracia']",5,Fue un día estupendo,Humberto Gracia,miembrom4.png
-517,Manu Gelabert,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Carolina Exposito,opinion6.png
-518,Bautista Barrera,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,No terminó de ayudarme,Modesto Almeida,miembroh3.png
-519,Mariana Mir,"['Nuevas Tecnologías', 'Salud', 'El día a día']",2,El servicio no estuvo mal,Leticia Casal,miembroh3.png
-520,Baudelio Ayllón,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Ha estado bien,Dominga Villalonga,opinion2m.png
-521,Daniela Tapia,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Octavio Jara,opinion1.png
-522,Ani Criado,"['Salud', 'El día a día', 'Servicios del Municipio']",3,Ha estado bien,Vera Carbó,opinion5m.png
-523,Baudelio Verdejo,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Bienvenida Mendez,miembroh1.png
-524,Cecilio Estevez,"['Amigos y Ocio', 'El día a día', 'Burocracia']",1,No es muy habladora,Juan Pablo Cortina,opinion3m.png
-525,Bruno Bayo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Hilario Castillo,opinion3m.png
-526,Imelda Gutierrez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No sabía lo que le pedía,Gervasio Morell,opinion6.png
-527,Sancho Carretero,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,Puede mejorar,Erasmo Bermejo,opinion6.png
-528,Tania Hoz,"['Nuevas Tecnologías', 'Burocracia']",5,Me ayudó mucho en casa,Natalio Salvà,opinion6.png
-529,Cristina Ariño,['Salud'],2,Está normal,Matías Pujadas,miembroh3.png
-530,Estefanía Bilbao,"['El día a día', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Pacífica Abella,opinion3m.png
-531,Simón Yáñez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Juan Francisco Pla,miembrom3.png
-532,Maximiano Julián,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Fue un día estupendo,Ana Sofía Girona,opinion3m.png
-533,Hernando Miralles,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha ayudado mucho,Ema Palmer,opinion1.png
-534,Jorge Priego,"['Nuevas Tecnologías', 'Salud']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Maximino Almazán,miembroh1.png
-535,Eleuterio Marín,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Caridad Bermudez,opinion3m.png
-536,Zacarías Molina,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",4,Fue un día estupendo,Teresa Andres,miembroh3.png
-537,Úrsula Belmonte,"['El día a día', 'Burocracia']",5,Fue un día estupendo,Imelda Sanz,opinion1.png
-538,Agapito Sedano,['Amigos y Ocio'],3,Me ha ayudado en lo que le he pedido,María José Nogués,miembrom3.png
-539,Ester Cabo,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Fanny Noriega,opinion3m.png
-540,Candelario Garcés,['Nuevas Tecnologías'],3,Un día agradable,Edelmiro Ángel,miembrom3.png
-541,Antonia Cazorla,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,Llegó tarde,Celso Caparrós,miembroh3.png
-542,Paco Bayona,"['Amigos y Ocio', 'Servicios del Municipio']",3,Ha estado muy bien,Samuel Carvajal,miembrom4.png
-543,Serafina Hidalgo,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,Es un encanto y me ayudó a hablar con mis nietos,Juan Francisco Barón,miembrom4.png
-544,Rafael López,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,Me ayudó mucho en casa,Cipriano Llorente,miembrom3.png
-545,Fausto Ríos,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,No me ayudó nada,Leonel Suárez,miembrom4.png
-546,Perla Mate,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Un día agradable,Rafael Palacio,miembrom4.png
-547,Emma Ángel,"['Amigos y Ocio', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Hipólito Vaquero,miembrom3.png
-548,Adán Marí,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",1,No me ayudó nada,Fabián Gomis,opinion1.png
-549,Gracia Calleja,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Irma Jurado,miembroh1.png
-550,Selena Cañizares,"['Salud', 'El día a día']",2,No ha ido mal,Juan Antonio Barba,opinion4.png
-551,Juan Luis Carlos,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Maxi Jiménez,miembroh3.png
-552,Tania Campo,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Me ayudó mucho en casa,Luna Roma,miembrom3.png
-553,Manuelita Lladó,"['Burocracia', 'Servicios del Municipio']",1,No habla mucho,Prudencia Torrijos,opinion4.png
-554,Lope Galvez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Salomón Meléndez,opinion3m.png
-555,Liliana Novoa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,Está normal,Matilde Ferrándiz,miembrom3.png
-556,Herminio Laguna,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Chema Anguita,miembroh3.png
-557,Anselma Torres,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",5,Fue un día estupendo,Evita Castañeda,miembroh1.png
-558,José Azcona,"['Salud', 'El día a día', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Dominga Saez,miembroh3.png
-559,Cirino Lloret,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Loreto Alcolea,opinion1.png
-560,Arsenio Acevedo,"['Nuevas Tecnologías', 'Amigos y Ocio']",1,El día podría haber estado mejor,Venceslás León,miembroh1.png
-561,Nazario Castrillo,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Gracia Coll,opinion2m.png
-562,Febe Juárez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",1,No pudo ayudarme,Victor Castelló,miembroh3.png
-563,Felix Sala,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,Es un encanto y me ayudó a hablar con mis nietos,Timoteo Marqués,miembrom4.png
-564,Carmen Roma,"['Salud', 'Burocracia']",2,No ha podido ayudarme en lo que necesitaba,Herberto Maza,miembrom3.png
-565,Chelo Agustí,"['Amigos y Ocio', 'Servicios del Municipio']",1,No habla mucho,Telmo Jordán,miembroh1.png
-566,Dani Company,['El día a día'],2,Es amable aunque no divertida,Irene Noguera,opinion6.png
-567,Caridad Araujo,"['Salud', 'Burocracia']",2,"Bueno, podría mejorar",Mónica Prado,miembroh1.png
-568,Perlita Peiró,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,Tuvo muy poca paciencia,Toño Sandoval,opinion3m.png
-569,Dafne Colomer,['Servicios del Municipio'],1,No me pudo acompañar donde yo quería,Jose Carlos Sotelo,opinion4.png
-570,Tito Castell,"['Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Teófila Solsona,miembroh1.png
-571,Ariel Mendez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Florencio Mulet,opinion3m.png
-572,Pánfilo Pallarès,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",2,Puede mejorar,Joan Barranco,miembroh1.png
-573,Humberto Iborra,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",2,Puede mejorar,Candelario Bello,miembroh1.png
-574,Griselda Calderon,"['Salud', 'Burocracia', 'Servicios del Municipio']",3,Estoy contenta,Ana Sofía Taboada,miembrom3.png
-575,Paulino Cortes,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Pastor Verdugo,opinion1.png
-576,Ángela Cámara,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,Lisandro Cuenca,miembroh3.png
-577,Nereida Elorza,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",5,Encantado con toda la ayuda que he recibido,Azahar Castellanos,opinion6.png
-578,Socorro Revilla,"['El día a día', 'Servicios del Municipio']",1,No habla mucho,Matías Carranza,opinion4.png
-579,Amador Escobar,"['Salud', 'Burocracia']",4,No hubiera podido está más feliz,Timoteo Sarabia,opinion2m.png
-580,Maite Márquez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Faustino Bonet,miembrom4.png
-581,Micaela Requena,['Amigos y Ocio'],1,No habla mucho,Hugo Valls,miembrom4.png
-582,Nidia Hurtado,['El día a día'],1,Tuvo muy poca paciencia,Prudencia Cepeda,miembroh1.png
-583,Juanito Campoy,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Alondra Alemany,opinion2m.png
-584,Roberto Arias,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Al final tuvo que irse antes,Benito Amor,opinion4.png
-585,Rosa María Sosa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha ayudado mucho,Severino Molina,opinion5m.png
-586,Iván Flores,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Un día agradable,Carla Vilar,opinion6.png
-587,Olga Seguí,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,Juan Pablo Crespi,opinion4.png
-588,Pancho Mayoral,['Amigos y Ocio'],5,Fue un día estupendo,Sabas Ojeda,miembroh3.png
-589,Otilia Gisbert,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Victor Manuel Bravo,opinion3m.png
-590,Amado Ferrando,"['El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Guillermo Iglesia,miembroh3.png
-591,Sabas Moya,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Es muy amable,Maxi Palomares,opinion3m.png
-592,León Lorenzo,['Burocracia'],2,No sabía lo que le pedía,Maximino Lucas,miembrom4.png
-593,Pascual Vergara,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,Al final tuvo que irse antes,Ana Corbacho,opinion4.png
-594,Salomón Muñoz,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,No hemos terminado de congeniar pero ha estado bien,Cintia Saavedra,opinion3m.png
-595,Amaro Arenas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",3,No hemos terminado de congeniar pero ha estado bien,Patricio Paniagua,miembrom3.png
-596,César Rovira,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",1,No me arregló los papeles,Pancho Mir,opinion3m.png
-597,Onofre Rubio,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,No hubiera podido está más feliz,Felicidad Palacios,miembroh1.png
-598,Eloísa Vidal,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Jose Manuel Nicolau,miembrom3.png
-599,David Plaza,"['Nuevas Tecnologías', 'Salud']",2,No ha ido mal,Belen Peñalver,opinion6.png
-600,Trinidad Falcón,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Brunilda Palomino,opinion3m.png
-601,José Manuel Arregui,['Burocracia'],2,El servicio no estuvo mal,Olegario Rebollo,opinion4.png
-602,Leandra Abellán,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,No sabía lo que le pedía,Sosimo Ferrán,opinion3m.png
-603,Aurora Figueras,"['Salud', 'Burocracia', 'Servicios del Municipio']",2,No terminó de ayudarme,Leyre López,miembroh1.png
-604,Prudencio Rosado,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Maribel Enríquez,opinion2m.png
-605,Buenaventura Mas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",2,Ha llegado tarde,Teobaldo Millán,opinion3m.png
-606,Anunciación Mendoza,"['Nuevas Tecnologías', 'Burocracia']",1,No me pudo acompañar donde yo quería,Clímaco Checa,opinion6.png
-607,Griselda Real,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Marino Echevarría,miembroh3.png
-608,Nacho Marqués,['Nuevas Tecnologías'],3,Ha podido ayudarme en algunas cosas,Leoncio Aguirre,opinion6.png
-609,Casandra Castejón,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,Es un encanto y me ayudó a hablar con mis nietos,Zoraida Ródenas,miembroh1.png
-610,Gregorio Rivero,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,Puede mejorar,Miguela Diez,miembrom4.png
-611,Graciana Pinilla,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Bien,Lilia Tovar,opinion3m.png
-612,Inés Dávila,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No terminó de ayudarme,Remigio Llamas,miembroh3.png
-613,Encarnación Mascaró,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,María Ángeles Cuesta,miembrom3.png
-614,Santiago Abad,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,No pudo ayudarme,Consuela Gómez,miembrom4.png
-615,Marco Madrid,"['El día a día', 'Burocracia']",3,Ha podido ayudarme en algunas cosas,Narciso Rico,opinion1.png
-616,Humberto Ropero,"['El día a día', 'Burocracia']",3,Bien,Omar Jove,miembrom4.png
-617,Mireia Montserrat,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",4,No hubiera podido está más feliz,Luis Franco,opinion3m.png
-618,Adela Salamanca,"['Nuevas Tecnologías', 'Amigos y Ocio']",1,No me ayudó nada,Marcos Galiano,miembroh1.png
-619,Imelda García,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Rolando Bayo,miembrom4.png
-620,Ariadna Sáenz,"['Amigos y Ocio', 'El día a día']",3,Me acompañó en lo que necesitaba,Salvador Montoya,opinion3m.png
-621,Nadia Doménech,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",1,Llegó tarde,Paco Moreno,miembroh1.png
-622,Genoveva Blazquez,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Leonardo Guardiola,miembrom3.png
-623,Loreto Villalba,['El día a día'],4,No hubiera podido está más feliz,Gonzalo Fiol,opinion4.png
-624,Gracia Naranjo,['Servicios del Municipio'],4,Es un encanto y me ayudó a hablar con mis nietos,América Giner,opinion6.png
-625,Ciro Menéndez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Cleto Peinado,miembrom4.png
-626,Jafet Colom,['Nuevas Tecnologías'],1,Al final tuvo que irse antes,Jose Manuel Cueto,miembroh1.png
-627,Amador Arteaga,"['Burocracia', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Rosendo Roig,opinion1.png
-628,Jose Ignacio Beltran,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Está normal,Dafne Hidalgo,miembrom3.png
-629,Xavier Ribas,['Servicios del Municipio'],1,No me pudo acompañar donde yo quería,Irma Sosa,miembroh1.png
-630,Soraya Ferreras,"['Salud', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Domingo Laguna,opinion2m.png
-631,Lina Plana,['Nuevas Tecnologías'],1,No me arregló los papeles,Agapito Gibert,opinion4.png
-632,Ana Belén Pulido,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Adelardo Perales,miembrom4.png
-633,Jose Francisco Coloma,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,No puedo estar más agradecida,Clotilde Torrents,miembrom3.png
-634,Gabriela Adán,"['Amigos y Ocio', 'El día a día']",1,No me entendía,Susanita Sancho,miembrom3.png
-635,Teodora Campillo,"['Amigos y Ocio', 'El día a día', 'Burocracia']",2,Puede mejorar,Tomasa Muñoz,opinion2m.png
-636,Melania Rodríguez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",2,Puede mejorar,Ruth Cuervo,miembroh1.png
-637,Isidoro Echeverría,"['Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Octavia Sanmiguel,opinion4.png
-638,Nilda Villaverde,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",1,No sabía lo que le pedía,Teófilo Santamaría,miembrom4.png
-639,Abril Ibañez,"['El día a día', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Lidia Gutierrez,opinion5m.png
-640,Yéssica Carrión,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,Consuelo Torrent,opinion3m.png
-641,Yago Cañellas,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Anabel Barberá,opinion3m.png
-642,Nicolasa Sobrino,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Nazario Rosado,opinion4.png
-643,Guadalupe Molins,"['El día a día', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Daniela Lago,miembrom4.png
-644,Marisol Salas,"['Amigos y Ocio', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Griselda Ureña,miembrom3.png
-645,Emperatriz Vargas,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",4,No puedo estar más agradecida,Aura Ortiz,opinion2m.png
-646,Teodosio Salmerón,"['El día a día', 'Burocracia']",3,Me ha ayudado en lo que le he pedido,Irma Vazquez,opinion5m.png
-647,Teófila Cuenca,"['El día a día', 'Servicios del Municipio']",2,Está normal,Eleuterio Hernando,opinion3m.png
-648,Mar Taboada,"['Salud', 'Servicios del Municipio']",5,Fue un día estupendo,Virgilio Nogueira,opinion4.png
-649,Vinicio Jove,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No me ayudó nada,Laura Español,miembrom3.png
-650,Maricruz Huertas,"['Nuevas Tecnologías', 'Burocracia']",3,Me ha ayudado en lo que le he pedido,Guillermo Ropero,opinion3m.png
-651,Priscila Lluch,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Georgina Andrade,opinion4.png
-652,María Dolores Vázquez,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Tomás Vicente,opinion5m.png
-653,Amada Haro,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Valentina Baró,opinion1.png
-654,Leonardo Sabater,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Cosme Robledo,opinion3m.png
-655,Casemiro Macias,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",4,No puedo estar más agradecida,Toribio Barceló,opinion2m.png
-656,Joel Llabrés,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,No hubiera podido estar más feliz,Emelina Guzman,miembrom3.png
-657,Nico Montenegro,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Sancho Torrens,opinion6.png
-658,Teodora Berrocal,['Nuevas Tecnologías'],4,Fue un día estupendo,Joaquín Terrón,opinion5m.png
-659,Emiliano Contreras,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No habla mucho,Gustavo Rocamora,opinion4.png
-660,Jerónimo Piñol,"['Salud', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,Julia Cárdenas,miembroh3.png
-661,Joaquina Corominas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,No ha ido mal,Blas Santamaria,opinion5m.png
-662,Lara Gargallo,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Joan Caballero,opinion1.png
-663,Bernardo Ribera,"['Salud', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Amanda Coronado,opinion5m.png
-664,Saturnino Muro,"['Nuevas Tecnologías', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Amador Mosquera,miembrom3.png
-665,Candela Solano,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Ha estado bien,Remigio Tamayo,miembroh1.png
-666,Severo Barrios,"['Salud', 'El día a día', 'Servicios del Municipio']",1,No es muy habladora,Victoriano Ferrández,opinion6.png
-667,Hilario Rivera,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Baudelio Barriga,opinion1.png
-668,Roque Aller,"['Salud', 'Amigos y Ocio']",4,No puedo estar más agradecida,Heliodoro Aguiló,miembrom4.png
-669,Rocío Pintor,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Dimas Feijoo,miembroh1.png
-670,Albina Aguado,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,Llegó tarde,Juanito Oller,opinion4.png
-671,Pastor Porta,"['Nuevas Tecnologías', 'Servicios del Municipio']",1,No pudo ayudarme,Hermenegildo Gonzalez,miembroh1.png
-672,Reyna Rius,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,"Bueno, podría mejorar",América Briones,opinion1.png
-673,Bárbara Torrents,"['Amigos y Ocio', 'El día a día']",3,Me ha ayudado mucho,Edelmiro Cantón,opinion2m.png
-674,Isidoro Llamas,"['Salud', 'Amigos y Ocio']",3,No hemos terminado de congeniar pero ha estado bien,Calista Ochoa,opinion3m.png
-675,Tristán Andres,"['Nuevas Tecnologías', 'Burocracia']",1,No me ayudó nada,Teodosio Bayón,opinion5m.png
-676,Roque Navarrete,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Es amable aunque no divertida,Amaro Peral,opinion1.png
-677,Guiomar Quiroga,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Isaura Riquelme,opinion5m.png
-678,Lourdes Solsona,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Valerio Bayona,opinion2m.png
-679,Zaira Amores,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No pudo ayudarme,Eduardo Villaverde,opinion2m.png
-680,Victoria Prada,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Marita Blanch,opinion1.png
-681,Dora Blanes,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,Ha llegado tarde,Chita Segovia,miembroh1.png
-682,Fernanda Cerdá,"['Salud', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Febe Vizcaíno,miembroh3.png
-683,Roxana Serrano,"['Nuevas Tecnologías', 'El día a día']",5,Me ayudó mucho en casa,Heliodoro Benavides,miembroh1.png
-684,Germán Juan,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Eulalia Torre,opinion2m.png
-685,Reynaldo Morán,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,No sabía lo que le pedía,Juanita Tomé,opinion3m.png
-686,Héctor Morillo,"['Salud', 'Amigos y Ocio']",5,"Gracias, ha sido toda una experiencia",Adora Roldán,opinion1.png
-687,Nicolás Robles,['Burocracia'],5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Ignacio Canals,opinion1.png
-688,José Antonio Azorin,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Rosalía Aliaga,opinion2m.png
-689,Pancho Gomez,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Ramiro Perea,opinion1.png
-690,Florentina Arjona,"['Salud', 'Burocracia', 'Servicios del Municipio']",2,El servicio no estuvo mal,Magdalena Dominguez,opinion1.png
-691,Marisela Anguita,"['El día a día', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Remedios Reina,opinion3m.png
-692,Jose Miguel Almagro,"['Nuevas Tecnologías', 'Servicios del Municipio']",2,No terminó de ayudarme,Juan Manuel Rios,opinion5m.png
-693,Ester Gómez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",5,Encantado con toda la ayuda que he recibido,Demetrio Guillén,opinion4.png
-694,Edmundo Gibert,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,El servicio no estuvo mal,Mamen Álvarez,opinion3m.png
-695,Adela Jaén,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me arregló los papeles,Olegario Barreda,miembrom4.png
-696,María Fernanda Peinado,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Ileana Morales,miembroh1.png
-697,Florencio Céspedes,"['Nuevas Tecnologías', 'Salud']",3,Gran dia,Jose Ignacio Godoy,hombre1.png
-698,María Amigó,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Emilio Calatayud,hombre2.png
-699,Úrsula Perez,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,No hubiera podido está más feliz,Dominga Roca,mujer1.png
-700,Régulo Fiol,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me entendía,Amílcar Andrés,mujer2.png
-701,Carlos Herrero,"['Nuevas Tecnologías', 'Burocracia']",5,No hubiera podido estar más feliz,Joan Vazquez,hombre2.png
-702,Cristian Mata,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me ayudó nada,Eligia Amor,mujer1.png
-703,Remedios Armengol,"['El día a día', 'Burocracia']",1,Al final tuvo que irse antes,Chelo Flor,mujer2.png
-704,Ovidio Velasco,"['Amigos y Ocio', 'Servicios del Municipio']",3,No hemos terminado de congeniar pero ha estado bien,Lilia Rivas,hombre2.png
-705,Flora Nogueira,"['Nuevas Tecnologías', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Nydia Agudo,hombre2.png
-706,Albano Trillo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Martina Cuervo,hombre1.png
-707,Curro Rosselló,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Estoy contenta,Cristian Bru,mujer2.png
-708,Porfirio Segura,['Salud'],1,No me entendía,Plinio Núñez,mujer1.png
-709,Laura Rozas,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No pudo ayudarme,Brunilda Casanovas,hombre2.png
-710,Gabriel Vélez,"['Nuevas Tecnologías', 'Amigos y Ocio']",4,No puedo estar más agradecida,Paula Pardo,hombre2.png
-711,Florina León,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Crescencia Fernandez,mujer1.png
-712,Encarnación Tomás,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado mucho,Julie Baños,mujer1.png
-713,Adela Ruano,"['Salud', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Artemio Goñi,mujer1.png
-714,Paola Ledesma,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Fabiola Patiño,mujer2.png
+,Nombre voluntario,Servicios Disponibles,Estrellas,Opinion,Nombre miembro,Foto miembro
+0,Feliciana Cantón,['Nuevas Tecnologías'],5,Me ayudó mucho en casa,Morena Pol,opinion6.png
+1,Amador Llopis,"['Salud', 'El día a día']",3,Me ayudó en lo que necesitaba,Chelo Rojas,miembroh1.png
+2,Jose Ignacio Godoy,"['Nuevas Tecnologías', 'Amigos y Ocio']",1,No me arregló los papeles,Alma Luque,miembrom3.png
+3,Emilio Calatayud,"['Salud', 'El día a día']",4,No puedo estar más agradecida,Ascensión Anaya,miembrom3.png
+4,Inmaculada Bonet,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",5,No puedo estar más agradecida,Leire Quiroga,opinion1.png
+5,Dominga Roca,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",3,Estoy contenta,Luisa Cid,opinion2m.png
+6,Amílcar Andrés,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Nando Lloret,opinion2m.png
+7,Ciro Gil,['El día a día'],1,No me pudo acompañar donde yo quería,Paco Perera,miembrom4.png
+8,Joan Vazquez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Teodosio Carrera,opinion2m.png
+9,Eligia Amor,"['Amigos y Ocio', 'Servicios del Municipio']",4,No puedo estar más agradecida,Cruz España,opinion4.png
+10,Chelo Flor,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",3,Me lo he pasado bien,Ruperta Casares,miembroh1.png
+11,Lilia Rivas,"['Amigos y Ocio', 'Servicios del Municipio']",1,No es muy habladora,Leandra Bilbao,opinion1.png
+12,Isidro Sanchez,"['Amigos y Ocio', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Adelia Costa,miembrom4.png
+13,Dolores Lobo,['El día a día'],3,Me ayudó en lo que necesitaba,Herberto Duarte,opinion2m.png
+14,Nydia Agudo,"['Nuevas Tecnologías', 'Burocracia']",2,"Bueno, podría mejorar",Bernabé Tomas,opinion3m.png
+15,Martina Cuervo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",1,Tuvo muy poca paciencia,Wálter Mayoral,miembrom3.png
+16,José Rocamora,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Calixto Cabezas,miembroh3.png
+17,Noé Cortés,['Servicios del Municipio'],3,Estoy contenta,Nico Uribe,opinion4.png
+18,Ildefonso Navarro,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia']",3,Gracias,Fidela Salamanca,miembroh1.png
+19,Cristian Bru,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",5,Fue un día estupendo,Álvaro Manzanares,opinion5m.png
+20,Ricardo Caballero,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",1,No me arregló los papeles,Carmela Arrieta,miembroh3.png
+21,Plinio Núñez,['Nuevas Tecnologías'],4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Clotilde Colomer,miembrom3.png
+22,Elisabet Lamas,['Nuevas Tecnologías'],5,Sin duda seguiré utilizando este servicio,Buenaventura Amat,opinion1.png
+23,Noemí Aroca,"['El día a día', 'Burocracia']",5,No puedo estar más agradecida,Manuelita Santiago,miembrom4.png
+24,Luna Segovia,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me entendía,Concepción Molins,opinion6.png
+25,Brunilda Casanovas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ayudó mucho en casa,Alcides Calzada,opinion1.png
+26,Ágata Pinedo,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Beatriz Cabañas,opinion3m.png
+27,Cayetano Marcos,['Servicios del Municipio'],2,No terminó de ayudarme,Ciriaco Olivera,miembroh3.png
+28,Paula Pardo,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Fue un día estupendo,Natividad Calatayud,opinion3m.png
+29,Crescencia Fernandez,"['Amigos y Ocio', 'El día a día']",3,Me ha ayudado mucho,Lupe Acevedo,opinion5m.png
+30,Julie Baños,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Emma Nicolás,opinion1.png
+31,Artemio Goñi,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,Al final tuvo que irse antes,Alfredo Sastre,miembrom4.png
+32,María Teresa Mancebo,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No sabía lo que le pedía,Maricela Escudero,opinion6.png
+33,Cebrián Guerrero,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No sabía lo que le pedía,Lupita Ayllón,miembrom3.png
+34,Roxana Cabrero,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Julieta Rius,opinion1.png
+35,Ricardo Santana,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Benjamín Neira,opinion3m.png
+36,Fabiola Patiño,"['El día a día', 'Servicios del Municipio']",3,Gran dia,Martirio Jover,miembrom3.png
+37,Fermín Pellicer,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Mar Valero,opinion3m.png
+38,Pedro Gallego,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Cirino Puerta,opinion5m.png
+39,Herminia Lasa,['El día a día'],5,Sin duda seguiré utilizando este servicio,Marina Alarcón,miembroh3.png
+40,Judith Bellido,"['Salud', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Cristian Losa,opinion3m.png
+41,Emelina Donoso,"['Salud', 'El día a día']",5,No hubiera podido estar más feliz,Gil Abad,opinion6.png
+42,Bibiana Hierro,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Gilberto Galán,opinion6.png
+43,Fernando Sevilla,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,María Gimenez,opinion3m.png
+44,Reynaldo Lerma,"['El día a día', 'Burocracia']",3,Me acompañó en lo que necesitaba,Calixto Verdú,opinion5m.png
+45,Ángela Gimenez,['Servicios del Municipio'],5,Me ayudó mucho en casa,Benigno Mínguez,miembrom3.png
+46,Isidora Morata,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",5,Encantado con toda la ayuda que he recibido,Mireia Cabrera,opinion2m.png
+47,Pía Barba,"['Salud', 'Burocracia', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Patricia Maldonado,opinion5m.png
+48,Jenaro Antón,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Esperanza Feliu,opinion4.png
+49,Noa Moles,"['Salud', 'El día a día', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Clímaco Muro,opinion4.png
+50,Salvador Leal,"['El día a día', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,María Fernanda Araujo,opinion3m.png
+51,Blas Galván,"['Nuevas Tecnologías', 'Salud']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Sarita Valverde,opinion3m.png
+52,Xiomara Miranda,"['Salud', 'Amigos y Ocio']",5,Sin duda seguiré utilizando este servicio,Dulce Girón,miembroh1.png
+53,Ibán Valera,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,Es amable aunque no divertida,Maribel Matas,opinion2m.png
+54,Ruy Segarra,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Ha estado muy bien,Celestina Barros,miembrom4.png
+55,Eric Landa,['Amigos y Ocio'],4,No puedo estar más agradecida,Nereida Sola,opinion2m.png
+56,Emilio Huerta,"['Nuevas Tecnologías', 'Amigos y Ocio']",3,Bien,África Peñas,opinion1.png
+57,Marcela Jódar,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,No sabía lo que le pedía,David Mur,opinion1.png
+58,Margarita Romero,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha resuelto muchas dudas,Graciela Leal,miembroh3.png
+59,Tomasa Pujol,"['Nuevas Tecnologías', 'El día a día']",3,Ha podido ayudarme en algunas cosas,Celestina Dalmau,miembrom3.png
+60,Porfirio Chacón,"['Amigos y Ocio', 'El día a día']",4,No puedo estar más agradecida,Nydia Saura,opinion4.png
+61,Araceli Uriarte,"['Amigos y Ocio', 'El día a día']",1,No sabía lo que le pedía,Asdrubal Diéguez,miembroh1.png
+62,Ciriaco Arévalo,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Ha llegado tarde,Ciríaco Alegria,miembroh1.png
+63,Rosalinda Canals,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Quirino Mas,opinion3m.png
+64,Ezequiel Cuesta,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",2,Es amable aunque no divertida,Belén Tur,opinion6.png
+65,Mónica Bartolomé,"['Nuevas Tecnologías', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,Javiera Fabregat,miembroh3.png
+66,Rogelio Pizarro,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Eva María Barrena,miembrom3.png
+67,Débora Solé,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me ayudó nada,Poncio Gargallo,opinion3m.png
+68,Benigna Iglesias,"['Amigos y Ocio', 'El día a día']",5,Sin duda seguiré utilizando este servicio,Vinicio Canales,opinion3m.png
+69,Carolina Alberdi,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,Darío Seguí,opinion3m.png
+70,Irma Carbó,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Eugenia Arce,opinion5m.png
+71,Isabel Nieto,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Amaya Criado,opinion4.png
+72,Dani Marin,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Milagros Román,opinion2m.png
+73,Trinidad Cruz,"['El día a día', 'Burocracia']",5,"Gracias, ha sido toda una experiencia",Óscar Rodríguez,opinion5m.png
+74,Wilfredo Acero,"['Salud', 'Burocracia']",2,No ha podido ayudarme en lo que necesitaba,Amalia Valcárcel,opinion1.png
+75,Lorenza Lago,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Blas Peláez,miembroh3.png
+76,Angelita Escalona,"['Salud', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Rolando Falcó,opinion5m.png
+77,Anunciación Camino,"['Amigos y Ocio', 'Burocracia']",3,Me ha ayudado mucho,Violeta Calderón,opinion5m.png
+78,Sabina Martín,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Calixta Gallo,opinion5m.png
+79,Prudencia Vera,"['Salud', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Calixto Viña,miembroh1.png
+80,Emelina Coronado,"['Salud', 'Servicios del Municipio']",4,Fue un día estupendo,Amor Murcia,opinion5m.png
+81,Raúl Cuéllar,['Burocracia'],3,Gran dia,Reina Farré,miembroh1.png
+82,Calista Abascal,"['Nuevas Tecnologías', 'Servicios del Municipio']",1,No me entendía,Asdrubal Villar,opinion1.png
+83,Elena Morante,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Olivia Ariza,opinion6.png
+84,Amaya Aliaga,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",1,No sabía lo que le pedía,Juan Antonio Pavón,miembrom3.png
+85,Dani Parejo,"['El día a día', 'Servicios del Municipio']",2,No terminó de ayudarme,Cebrián Arco,opinion6.png
+86,Selena Meléndez,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Maxi Tirado,opinion6.png
+87,Jose Barco,"['Burocracia', 'Servicios del Municipio']",2,Ha llegado tarde,Virginia Alcántara,miembrom4.png
+88,Jose Angel Bermúdez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Clotilde Torrecilla,opinion2m.png
+89,Che Torre,"['Nuevas Tecnologías', 'Salud', 'El día a día']",3,Un día agradable,Leopoldo Bárcena,opinion6.png
+90,Olalla Bayón,"['Nuevas Tecnologías', 'El día a día']",4,Fue un día estupendo,Gloria Sales,opinion3m.png
+91,Martirio Casas,"['Salud', 'Servicios del Municipio']",1,No me entendía,Alejo Pineda,opinion4.png
+92,Eduardo Talavera,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Haroldo Bartolomé,miembroh1.png
+93,Carmela Dalmau,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Fanny Luján,opinion3m.png
+94,Juan Manuel Álamo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",2,Puede mejorar,Purificación Contreras,opinion2m.png
+95,Salud Rocha,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",2,Está normal,Edelmira Sanabria,miembrom4.png
+96,Héctor Font,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Odalis Higueras,opinion6.png
+97,Leyre Mesa,"['Nuevas Tecnologías', 'Salud']",5,Encantado con toda la ayuda que he recibido,Abilio Moles,miembrom4.png
+98,Sabas Perea,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Palmira Esteban,miembrom3.png
+99,Urbano Villar,"['Salud', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Jacinta Martin,miembrom4.png
+100,Vito Carrillo,"['Amigos y Ocio', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Marisol Guitart,opinion3m.png
+101,Jose Miguel Gomila,"['Salud', 'El día a día']",4,No puedo estar más agradecida,Dolores Arenas,miembrom3.png
+102,Bernardo Neira,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Julio Miranda,miembrom4.png
+103,Alfonso Grau,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,El servicio no estuvo mal,Noelia Escolano,miembroh1.png
+104,Dionisia Giménez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Llegó tarde,Macario Jáuregui,miembrom4.png
+105,Adrián Belda,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Amanda Pérez,miembrom4.png
+106,Laura Barral,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Felisa Pastor,opinion1.png
+107,Jenaro Bauzà,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Un día agradable,Eligio Vergara,opinion3m.png
+108,Vicenta Angulo,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Cecilio Hurtado,miembrom3.png
+109,Rosalina Murillo,"['El día a día', 'Servicios del Municipio']",5,Fue un día estupendo,Lorenza Rodriguez,opinion6.png
+110,Calisto Vilaplana,"['Nuevas Tecnologías', 'Amigos y Ocio']",5,Encantado con toda la ayuda que he recibido,Amarilis Cabrero,opinion4.png
+111,Jordán Lopez,"['El día a día', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Agustín Elías,miembroh3.png
+112,Haydée Torralba,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Evangelina Cifuentes,opinion1.png
+113,Iker Catalán,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Candela Elorza,opinion4.png
+114,Loreto Suárez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Rosalinda Guzmán,miembroh3.png
+115,Jose Carlos Ramírez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",2,No sabía lo que le pedía,Cristóbal Villalobos,opinion6.png
+116,Goyo Busquets,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Bien,Albina Lumbreras,opinion1.png
+117,Cleto Rosa,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Ignacia Valentín,opinion4.png
+118,Paulino Roda,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",2,Ha llegado tarde,Edu Piquer,opinion5m.png
+119,Segismundo Solera,"['Burocracia', 'Servicios del Municipio']",1,Llegó tarde,Ruy Zorrilla,miembroh1.png
+120,Rosario Balaguer,['El día a día'],1,No me entendía,Claudio Amador,miembrom3.png
+121,Ignacia Cabello,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",1,El día podría haber estado mejor,Hipólito Martín,opinion4.png
+122,Benjamín Quevedo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",2,Puede mejorar,Sergio Bellido,opinion5m.png
+123,Luisa Nicolau,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Porfirio Piñol,opinion5m.png
+124,Nereida Canales,['El día a día'],1,Al final tuvo que irse antes,Nilda Falcón,opinion4.png
+125,Jose Ramón Feliu,"['Salud', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Pili Mata,miembrom4.png
+126,Goyo Sanabria,"['Amigos y Ocio', 'Burocracia']",3,Ha estado bien,Francisco Robles,opinion3m.png
+127,Enrique Español,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Wilfredo Casals,opinion1.png
+128,León Sevillano,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",3,Ha estado muy bien,Vinicio Toro,opinion3m.png
+129,Josep Benet,"['Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Sandalio Ribera,miembrom3.png
+130,Venceslás Cabañas,"['Nuevas Tecnologías', 'Salud']",5,Es un encanto y me ayudó a hablar con mis nietos,Flavio Bas,opinion3m.png
+131,Aureliano Alcolea,"['Salud', 'El día a día']",3,Me ha ayudado en lo que le he pedido,Susana Oliva,opinion1.png
+132,Ciro Guzmán,['Servicios del Municipio'],5,Fue un día estupendo,Perlita Fuentes,opinion4.png
+133,Flavio Ramos,"['Nuevas Tecnologías', 'Salud']",2,Está normal,Mar Rivero,miembrom4.png
+134,Amalia Teruel,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Amalia Valdés,opinion2m.png
+135,Ignacio Quero,"['El día a día', 'Burocracia', 'Servicios del Municipio']",2,Ha llegado tarde,Flor Castilla,opinion5m.png
+136,Vanesa Cózar,['El día a día'],4,Fue un día estupendo,Cándida Aznar,opinion3m.png
+137,Reynaldo Abril,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Ha estado muy bien,Calixta Julián,opinion4.png
+138,Rosario Lara,['Servicios del Municipio'],3,Me ha ayudado en lo que le he pedido,Ascensión Aguado,opinion5m.png
+139,Ángeles Sanz,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",3,Es muy amable,Gloria Vara,opinion6.png
+140,Lucho Torrecilla,['Amigos y Ocio'],5,Me ayudó mucho en casa,Aroa Álamo,miembrom4.png
+141,Fabián Falcó,['Burocracia'],3,Es muy amable,Gracia Bermúdez,opinion2m.png
+142,Manu Gelabert,['Servicios del Municipio'],4,No hubiera podido está más feliz,Edu Luna,opinion1.png
+143,Bautista Barrera,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Sin duda seguiré utilizando este servicio,Vicente Sabater,miembroh3.png
+144,Mariana Mir,"['El día a día', 'Burocracia']",3,Me acompañó en lo que necesitaba,Sonia Montaña,miembroh3.png
+145,Baudelio Ayllón,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Isidro Ledesma,opinion2m.png
+146,Daniela Tapia,['Nuevas Tecnologías'],5,"Gracias, ha sido toda una experiencia",Daniela Mateos,opinion1.png
+147,Ani Criado,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Juan Antonio Coloma,miembroh3.png
+148,Baudelio Verdejo,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Marianela Borrás,miembroh1.png
+149,Cecilio Estevez,"['Amigos y Ocio', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Jordi Pi,opinion4.png
+150,Bruno Bayo,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Ha estado bien,Débora Clavero,opinion4.png
+151,Imelda Gutierrez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Está normal,Darío Cañas,miembroh3.png
+152,Sancho Carretero,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Catalina Sobrino,miembrom3.png
+153,Tania Hoz,['Nuevas Tecnologías'],5,No hubiera podido estar más feliz,Galo Manzano,opinion3m.png
+154,Cristina Ariño,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Dani Linares,opinion2m.png
+155,Estefanía Bilbao,"['Amigos y Ocio', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Lucas Azcona,miembroh1.png
+156,Simón Yáñez,['El día a día'],2,Es amable aunque no divertida,Gaspar Zurita,opinion2m.png
+157,Maximiano Julián,['El día a día'],1,No es muy habladora,Juanita Benet,miembroh1.png
+158,Hernando Miralles,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Tatiana Giménez,opinion2m.png
+159,Jorge Priego,"['Salud', 'El día a día']",1,No pudo ayudarme,Cecilia Reguera,opinion2m.png
+160,Eleuterio Marín,"['Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me entendía,Begoña Padilla,opinion2m.png
+161,Zacarías Molina,"['Salud', 'Amigos y Ocio']",1,No me ayudó nada,Chuy Gárate,miembroh1.png
+162,Úrsula Belmonte,"['Amigos y Ocio', 'El día a día', 'Burocracia']",5,Sin duda seguiré utilizando este servicio,Chita Segarra,miembrom4.png
+163,Agapito Sedano,"['Salud', 'Burocracia']",4,No puedo estar más agradecida,Anita Valbuena,miembroh3.png
+164,Ester Cabo,"['Nuevas Tecnologías', 'El día a día']",2,El servicio no estuvo mal,César Doménech,miembroh1.png
+165,Candelario Garcés,['Amigos y Ocio'],3,Me lo he pasado bien,Nayara Acuña,miembroh1.png
+166,Antonia Cazorla,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Me ha ayudado mucho,Josué Hervás,opinion2m.png
+167,Paco Bayona,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,Llegó tarde,Felisa Iborra,miembroh3.png
+168,Serafina Hidalgo,['Servicios del Municipio'],5,Fue un día estupendo,Alex Ferrando,opinion2m.png
+169,Rafael López,"['Nuevas Tecnologías', 'El día a día']",5,Fue un día estupendo,Eva Morán,opinion4.png
+170,Fausto Ríos,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Edelmiro Baeza,miembroh1.png
+171,Perla Mate,"['Nuevas Tecnologías', 'El día a día']",5,Me ayudó mucho en casa,Marcela Lledó,miembrom4.png
+172,Emma Ángel,"['El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Gerónimo Somoza,opinion4.png
+173,Adán Marí,"['Amigos y Ocio', 'Burocracia']",2,No ha ido mal,Cándida Menéndez,miembroh3.png
+174,Gracia Calleja,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Gil Fuster,opinion3m.png
+175,Selena Cañizares,"['Salud', 'Burocracia']",2,El servicio no estuvo mal,Carmelo Domínguez,opinion1.png
+176,Juan Luis Carlos,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",5,Fue un día estupendo,Jose Luis Daza,miembroh3.png
+177,Tania Campo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",3,Gracias,Andrés Báez,miembroh3.png
+178,Manuelita Lladó,"['Amigos y Ocio', 'El día a día']",1,Tuvo muy poca paciencia,Ignacio Sánchez,opinion3m.png
+179,Lope Galvez,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Socorro Recio,miembrom3.png
+180,Liliana Novoa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Raquel Ballesteros,miembrom3.png
+181,Herminio Laguna,['Salud'],1,No me arregló los papeles,Macario Expósito,opinion6.png
+182,Anselma Torres,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,El día podría haber estado mejor,Dulce Gonzalo,miembrom3.png
+183,José Azcona,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,Aurelio Tena,opinion3m.png
+184,Cirino Lloret,"['Salud', 'Amigos y Ocio']",4,Fue un día estupendo,Arturo Ríos,miembroh1.png
+185,Arsenio Acevedo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,Al final tuvo que irse antes,Ainoa Garmendia,miembroh3.png
+186,Nazario Castrillo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",3,Estoy contenta,Adriana Cáceres,opinion2m.png
+187,Febe Juárez,"['Nuevas Tecnologías', 'Salud']",5,Qué bien que pudo ayudarme con mis papeles,Carmelita Flores,miembrom4.png
+188,Felix Sala,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Melisa Melero,opinion2m.png
+189,Carmen Roma,"['El día a día', 'Servicios del Municipio']",2,No sabía lo que le pedía,Eusebio Salazar,opinion2m.png
+190,Chelo Agustí,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",2,No ha ido mal,Salomón González,miembroh1.png
+191,Dani Company,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Viviana Requena,opinion3m.png
+192,Caridad Araujo,"['Salud', 'El día a día', 'Servicios del Municipio']",2,No sabía lo que le pedía,Genoveva Pomares,opinion4.png
+193,Perlita Peiró,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me acompañó en lo que necesitaba,Cipriano Vallejo,opinion5m.png
+194,Dafne Colomer,"['Salud', 'Amigos y Ocio']",4,Es un encanto y me ayudó a hablar con mis nietos,Socorro Morera,miembroh1.png
+195,Tito Castell,"['Salud', 'Burocracia']",4,No hubiera podido está más feliz,Jaime Villa,opinion4.png
+196,Ariel Mendez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Héctor Arellano,miembrom3.png
+197,Pánfilo Pallarès,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",3,Me ha ayudado mucho,Arsenio Rubio,opinion2m.png
+198,Humberto Iborra,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,Noa Baños,opinion6.png
+199,Griselda Calderon,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",5,Es un encanto y me ayudó a hablar con mis nietos,Magdalena Lerma,opinion2m.png
+200,Paulino Cortes,"['Nuevas Tecnologías', 'Salud', 'El día a día']",3,Es muy amable,Leonardo Baena,opinion5m.png
+201,Ángela Cámara,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,Luis Ángel Gabaldón,opinion2m.png
+202,Nereida Elorza,"['Amigos y Ocio', 'Burocracia']",1,No me pudo acompañar donde yo quería,David Ramirez,opinion5m.png
+203,Socorro Revilla,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me ayudó nada,Alma Alvarez,opinion1.png
+204,Amador Escobar,"['El día a día', 'Burocracia']",5,No hubiera podido estar más feliz,Aurora Jaume,opinion5m.png
+205,Maite Márquez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Néstor Rivera,opinion6.png
+206,Micaela Requena,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,María Manuela Roselló,opinion3m.png
+207,Nidia Hurtado,"['Salud', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Eloy Mariscal,opinion4.png
+208,Juanito Campoy,"['Salud', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Leire Llanos,opinion4.png
+209,Roberto Arias,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Charo Martorell,miembroh1.png
+210,Rosa María Sosa,"['Salud', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Rico Vila,miembrom4.png
+211,Iván Flores,"['Nuevas Tecnologías', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Reyes Sacristán,opinion2m.png
+212,Olga Seguí,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",3,Gracias,Poncio Serrano,miembrom3.png
+213,Pancho Mayoral,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,Marcelo Cisneros,opinion6.png
+214,Otilia Gisbert,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Valentín Carlos,opinion1.png
+215,Amado Ferrando,"['Amigos y Ocio', 'El día a día']",3,Un día agradable,Ernesto Piñeiro,opinion5m.png
+216,Sabas Moya,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,El día podría haber estado mejor,Luis Ángel Castejón,opinion1.png
+217,León Lorenzo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,No terminó de ayudarme,José Catalán,opinion6.png
+218,Pascual Vergara,"['Salud', 'El día a día']",4,Fue un día estupendo,Clarisa Chamorro,opinion6.png
+219,Salomón Muñoz,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Juanita Mena,opinion6.png
+220,Amaro Arenas,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Mamen Cardona,opinion4.png
+221,César Rovira,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Tomás Figueras,miembrom3.png
+222,Onofre Rubio,['Burocracia'],2,No ha ido mal,Maite Rozas,opinion4.png
+223,Eloísa Vidal,"['El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Jordi Aranda,opinion4.png
+224,David Plaza,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Ha llegado tarde,Goyo Jimenez,miembroh1.png
+225,Trinidad Falcón,['El día a día'],1,No habla mucho,Áurea Caro,opinion6.png
+226,José Manuel Arregui,"['Salud', 'El día a día']",5,Fue un día estupendo,Cándido Moliner,miembrom4.png
+227,Leandra Abellán,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,No habla mucho,Cristina Vallés,opinion3m.png
+228,Aurora Figueras,"['Salud', 'Servicios del Municipio']",2,No terminó de ayudarme,Teófila Botella,opinion2m.png
+229,Prudencio Rosado,"['El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me arregló los papeles,Cloe Lamas,opinion3m.png
+230,Buenaventura Mas,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",4,Fue un día estupendo,Leonel Bueno,miembroh3.png
+231,Anunciación Mendoza,"['Nuevas Tecnologías', 'El día a día']",1,No pudo ayudarme,Leocadio Bauzà,opinion6.png
+232,Griselda Real,"['El día a día', 'Servicios del Municipio']",5,Fue un día estupendo,Rebeca Hernández,miembroh3.png
+233,Nacho Marqués,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó en lo que necesitaba,Américo Moya,miembrom4.png
+234,Casandra Castejón,"['Salud', 'Amigos y Ocio']",1,Al final tuvo que irse antes,Jaime Barral,opinion1.png
+235,Gregorio Rivero,"['Amigos y Ocio', 'El día a día']",5,Fue un día estupendo,Benigno Folch,opinion4.png
+236,Graciana Pinilla,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",2,No terminó de ayudarme,Marciano Teruel,miembroh3.png
+237,Inés Dávila,"['Amigos y Ocio', 'El día a día', 'Burocracia']",5,Es un encanto y me ayudó a hablar con mis nietos,Mariana Romero,miembrom4.png
+238,Encarnación Mascaró,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,Amparo Hoz,miembroh3.png
+239,Santiago Abad,['Salud'],2,No terminó de ayudarme,César Tudela,opinion2m.png
+240,Marco Madrid,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Dionisio Baquero,opinion3m.png
+241,Humberto Ropero,"['Nuevas Tecnologías', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Raimundo Giralt,opinion3m.png
+242,Mireia Montserrat,"['Salud', 'El día a día', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Amalia Esparza,opinion3m.png
+243,Adela Salamanca,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Corona Espada,opinion3m.png
+244,Imelda García,"['Salud', 'Servicios del Municipio']",5,Fue un día estupendo,Teodosio Jódar,miembroh3.png
+245,Ariadna Sáenz,"['Nuevas Tecnologías', 'Servicios del Municipio']",2,No ha ido mal,Sofía Rosa,opinion1.png
+246,Nadia Doménech,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Fue un día estupendo,Javiera Almansa,opinion6.png
+247,Genoveva Blazquez,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,Tuvo muy poca paciencia,Baudelio Barbero,miembroh3.png
+248,Loreto Villalba,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Julián Polo,opinion1.png
+249,Gracia Naranjo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Un día agradable,Elvira Arribas,miembrom3.png
+250,Ciro Menéndez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Iván Avilés,miembroh3.png
+251,Jafet Colom,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,María Teresa Plaza,miembrom4.png
+252,Amador Arteaga,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado mucho,Iris Pascual,miembroh1.png
+253,Jose Ignacio Beltran,"['Amigos y Ocio', 'El día a día']",5,"Gracias, ha sido toda una experiencia",Francisco Javier Villalba,miembrom3.png
+254,Xavier Ribas,['El día a día'],5,Sin duda seguiré utilizando este servicio,Lara Lasa,opinion2m.png
+255,Soraya Ferreras,['Nuevas Tecnologías'],2,No terminó de ayudarme,Cándida Barroso,miembrom3.png
+256,Lina Plana,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me arregló los papeles,Lupita Guillen,miembroh3.png
+257,Ana Belén Pulido,"['Amigos y Ocio', 'Burocracia']",1,No me ayudó nada,Alexandra Portillo,opinion1.png
+258,Jose Francisco Coloma,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",2,No ha podido ayudarme en lo que necesitaba,Ana Sofía Gomila,miembroh1.png
+259,Gabriela Adán,['Amigos y Ocio'],1,Al final tuvo que irse antes,Macarena Monreal,miembrom3.png
+260,Teodora Campillo,"['Nuevas Tecnologías', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Jose Francisco Ibañez,opinion5m.png
+261,Melania Rodríguez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,No hubiera podido está más feliz,Soledad Olmedo,opinion2m.png
+262,Isidoro Echeverría,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Carmen Salas,miembrom3.png
+263,Nilda Villaverde,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Baldomero Sanchez,miembrom4.png
+264,Abril Ibañez,"['Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Narcisa Pazos,miembroh3.png
+265,Yéssica Carrión,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",3,Me ayudó mucho en casa,María Carmen Otero,opinion3m.png
+266,Yago Cañellas,"['Salud', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado mucho,Natanael Duque,opinion3m.png
+267,Nicolasa Sobrino,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Jimena Fajardo,opinion1.png
+268,Guadalupe Molins,"['Nuevas Tecnologías', 'Salud']",1,No me ayudó nada,Remedios Montalbán,opinion1.png
+269,Marisol Salas,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Al final tuvo que irse antes,José Ángel Armengol,opinion1.png
+270,Emperatriz Vargas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Artemio Blanca,miembrom3.png
+271,Teodosio Salmerón,"['El día a día', 'Servicios del Municipio']",2,No sabía lo que le pedía,Nélida Conde,miembrom4.png
+272,Teófila Cuenca,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",3,Me ayudó en lo que necesitaba,Anselma Correa,miembroh3.png
+273,Mar Taboada,"['Burocracia', 'Servicios del Municipio']",3,Me lo he pasado bien,Antonia Aroca,opinion5m.png
+274,Vinicio Jove,['Servicios del Municipio'],3,Gran dia,Florentino Galindo,opinion1.png
+275,Maricruz Huertas,"['Nuevas Tecnologías', 'Salud', 'El día a día']",3,No hemos terminado de congeniar pero ha estado bien,Ulises Donaire,miembrom4.png
+276,Priscila Lluch,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Gracias,Virgilio Benito,opinion4.png
+277,María Dolores Vázquez,"['Amigos y Ocio', 'El día a día', 'Burocracia']",4,No hubiera podido está más feliz,Morena Vega,miembrom4.png
+278,Amada Haro,"['Salud', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,Iris Mesa,opinion4.png
+279,Leonardo Sabater,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Lope Olivares,opinion6.png
+280,Casemiro Macias,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Artemio Navarro,opinion2m.png
+281,Joel Llabrés,"['Nuevas Tecnologías', 'El día a día']",1,No me arregló los papeles,Trini Manuel,opinion4.png
+282,Nico Montenegro,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Visitación Reig,opinion5m.png
+283,Teodora Berrocal,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Magdalena Company,miembrom4.png
+284,Emiliano Contreras,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Juan Pablo Revilla,miembrom3.png
+285,Jerónimo Piñol,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Noemí Delgado,miembroh3.png
+286,Joaquina Corominas,"['Nuevas Tecnologías', 'Salud', 'El día a día']",3,Estoy contenta,Adela Zaragoza,opinion6.png
+287,Lara Gargallo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,No ha ido mal,Ester Camps,opinion6.png
+288,Bernardo Ribera,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me acompañó en lo que necesitaba,Melchor Rueda,opinion1.png
+289,Saturnino Muro,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,No ha podido ayudarme en lo que necesitaba,Galo Galan,miembrom4.png
+290,Candela Solano,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",2,Está normal,Roberta Alonso,miembroh3.png
+291,Severo Barrios,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Gracias,Maribel Carbajo,opinion4.png
+292,Hilario Rivera,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",2,Ha llegado tarde,Iván Capdevila,miembroh3.png
+293,Roque Aller,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me arregló los papeles,Enrique Córdoba,opinion1.png
+294,Rocío Pintor,['Nuevas Tecnologías'],4,Es un encanto y me ayudó a hablar con mis nietos,Pili Estevez,opinion6.png
+295,Albina Aguado,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Eugenia Pedrero,opinion1.png
+296,Pastor Porta,"['Nuevas Tecnologías', 'El día a día']",3,Me lo he pasado bien,Guadalupe Alberto,opinion6.png
+297,Reyna Rius,"['Amigos y Ocio', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Candelario Ibáñez,miembroh1.png
+298,Bárbara Torrents,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Custodio Roca,opinion1.png
+299,Isidoro Llamas,"['El día a día', 'Burocracia']",3,Un día agradable,Rosario Martinez,opinion2m.png
+300,Tristán Andres,"['Nuevas Tecnologías', 'Salud']",2,No ha ido mal,Adán Coca,miembroh3.png
+301,Roque Navarrete,"['Salud', 'Burocracia']",5,"Gracias, ha sido toda una experiencia",Rosalía Valenzuela,miembroh3.png
+302,Guiomar Quiroga,"['Salud', 'El día a día', 'Servicios del Municipio']",3,Ha estado muy bien,Margarita Flor,miembrom4.png
+303,Lourdes Solsona,"['Amigos y Ocio', 'El día a día']",1,Al final tuvo que irse antes,Úrsula Simó,miembroh1.png
+304,Zaira Amores,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Íngrid Escalona,opinion6.png
+305,Victoria Prada,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Tadeo Rincón,opinion6.png
+306,Dora Blanes,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",3,Me ayudó mucho en casa,Adán Herrera,opinion2m.png
+307,Fernanda Cerdá,"['Amigos y Ocio', 'El día a día']",2,No ha podido ayudarme en lo que necesitaba,Gilberto Pelayo,miembrom4.png
+308,Roxana Serrano,"['Nuevas Tecnologías', 'Amigos y Ocio']",5,No puedo estar más agradecida,Febe Gual,opinion2m.png
+309,Germán Juan,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",5,Qué bien que pudo ayudarme con mis papeles,Víctor Granados,opinion3m.png
+310,Reynaldo Morán,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,No hubiera podido está más feliz,Nazario Perelló,opinion2m.png
+311,Héctor Morillo,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,El día podría haber estado mejor,Donato Ros,miembroh1.png
+312,Nicolás Robles,['Nuevas Tecnologías'],5,Sin duda seguiré utilizando este servicio,Palmira Armas,opinion3m.png
+313,José Antonio Azorin,"['Amigos y Ocio', 'Burocracia']",5,No hubiera podido estar más feliz,Ezequiel Benitez,miembroh1.png
+314,Pancho Gomez,"['Nuevas Tecnologías', 'Burocracia']",5,Me ayudó mucho en casa,León Paredes,opinion2m.png
+315,Florentina Arjona,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,No me arregló los papeles,Marcelo Camacho,miembroh3.png
+316,Marisela Anguita,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Ha llegado tarde,Enrique Aramburu,opinion5m.png
+317,Jose Miguel Almagro,"['Nuevas Tecnologías', 'Amigos y Ocio']",2,Puede mejorar,Aitana Gimeno,miembroh1.png
+318,Ester Gómez,"['El día a día', 'Burocracia']",1,No me pudo acompañar donde yo quería,Berto Marin,miembroh1.png
+319,Edmundo Gibert,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,Chus Cerezo,opinion2m.png
+320,Adela Jaén,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",1,Al final tuvo que irse antes,Jafet Lobato,miembrom4.png
+321,María Fernanda Peinado,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Anselma Rivas,miembrom3.png
+322,Florencio Céspedes,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,Al final tuvo que irse antes,Bibiana Pacheco,opinion3m.png
+323,María Amigó,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",2,Ha llegado tarde,Zaida Calvo,miembroh1.png
+324,Úrsula Perez,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Encarna Agudo,opinion2m.png
+325,Régulo Fiol,['Servicios del Municipio'],2,No ha ido mal,Juan Luis Carreras,opinion3m.png
+326,Carlos Herrero,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",1,Al final tuvo que irse antes,Modesta Viana,opinion6.png
+327,Cristian Mata,"['Salud', 'Burocracia']",3,Un día agradable,Yago Cabo,opinion2m.png
+328,Remedios Armengol,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",2,Puede mejorar,Itziar Garzón,opinion3m.png
+329,Ovidio Velasco,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Sin duda seguiré utilizando este servicio,Eloísa Ferrero,opinion1.png
+330,Flora Nogueira,"['El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Lalo Francisco,opinion2m.png
+331,Albano Trillo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,Ha llegado tarde,Luz Poza,opinion3m.png
+332,Curro Rosselló,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,No hemos terminado de congeniar pero ha estado bien,Herberto Águila,opinion3m.png
+333,Porfirio Segura,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Ha estado muy bien,Hugo Prada,miembroh1.png
+334,Laura Rozas,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,Ha llegado tarde,Guiomar Machado,opinion3m.png
+335,Gabriel Vélez,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",5,Qué bien que pudo ayudarme con mis papeles,Ani Batlle,miembrom4.png
+336,Florina León,['Salud'],1,No me pudo acompañar donde yo quería,Edu Escobar,opinion5m.png
+337,Encarnación Tomás,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Armida Marti,opinion5m.png
+338,Adela Ruano,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Ámbar Patiño,miembrom3.png
+339,Paola Ledesma,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha ayudado mucho,Herberto Toledo,miembrom3.png
+340,Mohamed Higueras,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No es muy habladora,Manuela Huerta,opinion6.png
+341,Paulina Bolaños,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No sabía lo que le pedía,Curro Sevilla,opinion3m.png
+342,León Sanmartín,"['Salud', 'Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Nélida Aragonés,opinion4.png
+343,Jose Francisco Andrade,['Amigos y Ocio'],2,No ha ido mal,Reina Márquez,opinion1.png
+344,Ana Belén Morcillo,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Gran dia,Camilo Royo,miembrom3.png
+345,Germán Torrent,"['Salud', 'Burocracia']",1,Tuvo muy poca paciencia,Ileana Pagès,opinion4.png
+346,Ibán Pacheco,"['Nuevas Tecnologías', 'Salud', 'El día a día']",2,El servicio no estuvo mal,Jose Carlos Puig,miembrom3.png
+347,Nayara Jordán,"['El día a día', 'Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Regina Pardo,miembrom4.png
+348,Noé Losa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,Puede mejorar,Valerio Narváez,miembrom4.png
+349,Silvia Llorente,"['Salud', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Julio Mancebo,opinion2m.png
+350,Cayetana Agustín,"['Amigos y Ocio', 'El día a día']",5,Sin duda seguiré utilizando este servicio,Nicolás Alegre,miembroh1.png
+351,Asunción Feijoo,"['Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,Calista Antúnez,opinion2m.png
+352,Che Hernández,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",3,Gran dia,Pastor Grau,opinion2m.png
+353,Lola Hernandez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me entendía,Tito Pedro,miembrom3.png
+354,Jessica Tamayo,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,Al final tuvo que irse antes,Ale Calderon,miembrom4.png
+355,Flavia Tudela,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Guillermo Niño,opinion3m.png
+356,Victorino Alemany,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Brígida Castells,opinion1.png
+357,Ciro Mariscal,['Burocracia'],5,Encantado con toda la ayuda que he recibido,Rolando Pablo,opinion6.png
+358,Ismael Hervia,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Matías Yáñez,miembrom4.png
+359,Mariano Roig,"['Salud', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Pánfilo Estévez,miembroh3.png
+360,Marcia Ortiz,"['El día a día', 'Servicios del Municipio']",3,Es muy amable,Anita Carro,opinion6.png
+361,Julia Santiago,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Dorita Casado,opinion3m.png
+362,Kike Medina,['Amigos y Ocio'],1,Tuvo muy poca paciencia,Guadalupe Llobet,opinion3m.png
+363,José Gual,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,No pudo ayudarme,Arcelia Isern,opinion6.png
+364,Dionisio Fernández,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Me lo he pasado bien,Toni Albero,opinion1.png
+365,Maximiano Carreras,"['Amigos y Ocio', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Roque Pallarès,opinion4.png
+366,Manuelita Esteve,"['Nuevas Tecnologías', 'Amigos y Ocio']",3,Me ayudó en lo que necesitaba,Ricarda Pinilla,opinion1.png
+367,Gregorio Gascón,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Marco Díez,miembrom3.png
+368,Mamen Tomé,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Verónica Burgos,opinion1.png
+369,Leonel Zamorano,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",3,Me ayudó en lo que necesitaba,Loreto Quirós,miembroh1.png
+370,Edelmira Luna,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Un día agradable,Susanita Marcos,miembroh1.png
+371,Cornelio Ferrera,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Griselda Blazquez,miembroh1.png
+372,Manu Gordillo,['Nuevas Tecnologías'],3,Gran dia,Margarita Torralba,opinion1.png
+373,Poncio Alcalá,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Rogelio Luís,opinion1.png
+374,Leandra Castañeda,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado mucho,Encarnita Clemente,miembrom4.png
+375,Leocadio Arroyo,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No sabía lo que le pedía,Santos Pinto,opinion4.png
+376,Baltasar Manzano,"['Salud', 'Burocracia', 'Servicios del Municipio']",1,Llegó tarde,Silvio Ferrer,opinion5m.png
+377,José Cases,"['Salud', 'Burocracia', 'Servicios del Municipio']",1,Llegó tarde,Marcial Boada,miembrom3.png
+378,Felicia Alberola,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Norberto Solera,opinion1.png
+379,Consuela Luís,"['Salud', 'El día a día', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Bernardino Bautista,miembroh1.png
+380,Adora Tejero,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Fabián Osuna,opinion4.png
+381,Valero Niño,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Lupe Fabra,miembrom4.png
+382,Gerónimo Aznar,"['Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Natalia Reyes,miembrom4.png
+383,José Antonio Tejedor,"['Amigos y Ocio', 'Servicios del Municipio']",4,Fue un día estupendo,Rogelio Castell,miembroh3.png
+384,Danilo Bas,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Azeneth Donoso,opinion6.png
+385,Salvador Téllez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Roberta Blasco,miembrom3.png
+386,Candelario Baeza,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me pudo acompañar donde yo quería,Felicidad Bernad,opinion5m.png
+387,Evaristo Mateu,['Amigos y Ocio'],2,Es amable aunque no divertida,Miguel Ángel Arjona,miembrom4.png
+388,Che Carrasco,['Burocracia'],5,No puedo estar más agradecida,Fermín Fonseca,opinion6.png
+389,Celestina Rico,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Mario Ugarte,miembroh3.png
+390,Eloísa Gonzalez,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Baldomero Campos,opinion3m.png
+391,Maura Sanjuan,['Amigos y Ocio'],2,No sabía lo que le pedía,Clarisa Cañellas,opinion6.png
+392,Violeta Martinez,"['Nuevas Tecnologías', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Esther Tejada,miembroh1.png
+393,Rosalina Romeu,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,No sabía lo que le pedía,Dimas Alfaro,opinion5m.png
+394,Marcos Barrena,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Celso Lluch,miembroh3.png
+395,Emilia Cabezas,"['Nuevas Tecnologías', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Pastor Serna,miembroh1.png
+396,María Carmen Galiano,"['Salud', 'Amigos y Ocio']",5,"Gracias, ha sido toda una experiencia",Anastasio Villanueva,miembrom3.png
+397,Eufemia Bertrán,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No me ayudó nada,Charo Cerro,opinion1.png
+398,Faustino Heredia,"['El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Socorro Mate,opinion6.png
+399,Fulgencio Benavides,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",1,No me entendía,Saturnino Milla,miembroh3.png
+400,Faustino Acedo,"['Nuevas Tecnologías', 'Burocracia']",3,Me ayudó mucho en casa,Samu Miguel,opinion6.png
+401,Sebastian Soriano,"['Salud', 'Burocracia']",1,Tuvo muy poca paciencia,Andrés Silva,opinion4.png
+402,Lupe Antúnez,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Brunilda Hervia,miembrom3.png
+403,Jesús Maldonado,"['Nuevas Tecnologías', 'Burocracia']",1,No habla mucho,Pastora Abril,opinion2m.png
+404,Lara Guillen,"['Salud', 'El día a día', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Ana Rosales,opinion3m.png
+405,Ámbar Figuerola,['Burocracia'],5,Qué bien que pudo ayudarme con mis papeles,Custodia Vidal,miembrom3.png
+406,Teodoro Cardona,['Amigos y Ocio'],1,Llegó tarde,Margarita Varela,miembroh1.png
+407,Candelas Larrañaga,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Sonia Cerdá,opinion3m.png
+408,Pascuala Cisneros,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,Fue un día estupendo,Estefanía Casanovas,opinion1.png
+409,Calixto Barreda,"['Nuevas Tecnologías', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Ibán Gaya,opinion1.png
+410,Fito Malo,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Cruz Valenciano,miembrom4.png
+411,Valentín Casanova,"['Amigos y Ocio', 'Burocracia']",4,No puedo estar más agradecida,Zacarías Viñas,opinion2m.png
+412,Adelina Vall,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Agustina Manrique,opinion1.png
+413,Calista Uribe,"['Nuevas Tecnologías', 'Salud', 'El día a día']",2,No ha podido ayudarme en lo que necesitaba,Paulino Carpio,miembrom4.png
+414,Urbano Bernat,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Juanita Alcalá,opinion1.png
+415,Elba Rosales,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",2,No ha ido mal,Remedios Alfonso,opinion1.png
+416,Macaria Mora,"['Salud', 'Burocracia']",1,Al final tuvo que irse antes,Guadalupe Diaz,opinion2m.png
+417,Elisabet Ibáñez,"['Burocracia', 'Servicios del Municipio']",1,No pudo ayudarme,Rosalina Sanmartín,miembroh3.png
+418,Amancio Bravo,"['Nuevas Tecnologías', 'Salud', 'El día a día']",5,No hubiera podido estar más feliz,Claudio Barco,opinion2m.png
+419,Jenaro Almansa,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",1,No habla mucho,Régulo Heras,miembroh3.png
+420,María Del Carmen Leon,"['Salud', 'Amigos y Ocio']",5,No puedo estar más agradecida,Eric Planas,miembrom3.png
+421,Corona Díez,['Salud'],1,El día podría haber estado mejor,Carlota Aparicio,miembroh1.png
+422,Adoración Villena,['Servicios del Municipio'],4,Es un encanto y me ayudó a hablar con mis nietos,María José Moll,miembrom3.png
+423,Florinda Escudero,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Álvaro Abascal,opinion6.png
+424,Delfina Bou,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",José Cañizares,opinion2m.png
+425,Adoración Oliveras,"['Nuevas Tecnologías', 'Burocracia']",1,No habla mucho,Anacleto Riba,opinion5m.png
+426,Sebastian Mínguez,"['Amigos y Ocio', 'Servicios del Municipio']",1,No sabía lo que le pedía,Candelario Vigil,opinion3m.png
+427,Miguel Ángel Calvo,"['Nuevas Tecnologías', 'El día a día']",5,No puedo estar más agradecida,Eliana Torres,miembrom3.png
+428,Rosa Cuevas,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Cristina Rodrigo,opinion1.png
+429,Narciso Valbuena,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Gran dia,Dan Valle,miembroh1.png
+430,Luis Pérez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",1,El día podría haber estado mejor,Florinda Romeu,opinion4.png
+431,Odalys Arco,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me acompañó en lo que necesitaba,Maximiliano Beltrán,miembrom3.png
+432,Wálter Borja,"['Amigos y Ocio', 'Servicios del Municipio']",2,No sabía lo que le pedía,Julia Orozco,miembrom3.png
+433,Maxi Iniesta,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Carina Riera,miembrom3.png
+434,Moisés Carmona,"['Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Ale Verdejo,opinion3m.png
+435,María Teresa Quintero,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Haroldo Ribes,miembrom3.png
+436,Rosaura Vilar,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Emiliano Figueroa,miembroh3.png
+437,Paloma Abella,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Esmeralda Chacón,miembrom3.png
+438,Gema Reyes,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Luis Miguel Valderrama,opinion3m.png
+439,Baltasar Expósito,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Ha podido ayudarme en algunas cosas,Moisés Parra,opinion1.png
+440,Aura Valentín,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Ha estado muy bien,Juanito Palomo,opinion1.png
+441,Eufemia Frutos,"['Nuevas Tecnologías', 'Salud']",2,Es amable aunque no divertida,Julián Castrillo,opinion5m.png
+442,Juanito Castro,"['Amigos y Ocio', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Eugenio Sevillano,miembrom4.png
+443,Áurea Maestre,"['Amigos y Ocio', 'Burocracia']",4,Es un encanto y me ayudó a hablar con mis nietos,Emilia Paz,miembroh1.png
+444,Urbano Tormo,"['El día a día', 'Servicios del Municipio']",1,No me ayudó nada,Guillermo Pons,miembrom4.png
+445,Domingo Heras,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Epifanio Garcés,opinion6.png
+446,Leire Cuadrado,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Atilio Ribas,opinion6.png
+447,María Raya,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Angélica Lorenzo,opinion5m.png
+448,Ciro Carballo,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",5,Sin duda seguiré utilizando este servicio,Renato Morante,miembroh3.png
+449,Íñigo Carpio,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Bien,Jorge Huguet,miembroh3.png
+450,Flora Correa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,Llegó tarde,Imelda Montero,miembroh1.png
+451,Andrea Manzanares,"['Salud', 'Burocracia', 'Servicios del Municipio']",5,No puedo estar más agradecida,Petrona Tejero,miembrom3.png
+452,Araceli Llano,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,No hubiera podido está más feliz,José Ángel Murillo,opinion2m.png
+453,Severo Tolosa,"['Nuevas Tecnologías', 'Amigos y Ocio']",4,Es un encanto y me ayudó a hablar con mis nietos,Débora Font,opinion4.png
+454,Agustina Hervás,"['El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Lorenzo Porras,miembrom3.png
+455,Yago Coca,['Burocracia'],4,No hubiera podido está más feliz,Jose Carlos Izaguirre,miembrom4.png
+456,Rodolfo Farré,"['Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,Patricio Morcillo,opinion2m.png
+457,África Cerezo,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,Fue un día estupendo,Teodosio Valencia,opinion2m.png
+458,Rosario Lastra,"['Nuevas Tecnologías', 'Servicios del Municipio']",1,No habla mucho,Lourdes Salmerón,opinion2m.png
+459,Otilia Tovar,"['El día a día', 'Burocracia']",2,No ha podido ayudarme en lo que necesitaba,Tamara Alsina,miembrom4.png
+460,Rosenda Comas,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",1,No es muy habladora,Florina Garay,miembrom4.png
+461,Victoriano Ochoa,"['Amigos y Ocio', 'El día a día', 'Burocracia']",5,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Roxana Ramírez,opinion3m.png
+462,Nazaret Pi,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,El servicio no estuvo mal,Casandra Escamilla,miembrom4.png
+463,Xavier Fabregat,"['Nuevas Tecnologías', 'Amigos y Ocio']",1,El día podría haber estado mejor,Maximino García,opinion2m.png
+464,José Reig,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Fue un día estupendo,Hermenegildo Talavera,opinion5m.png
+465,Armando Monreal,"['El día a día', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,Eusebio Pareja,opinion4.png
+466,Marcela Piquer,"['Amigos y Ocio', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Encarnacion Vilaplana,miembrom3.png
+467,Rolando Cornejo,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",3,Me acompañó en lo que necesitaba,Loida Pina,opinion3m.png
+468,Ana Sofía Vallés,"['Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Felipe Aguilar,miembrom4.png
+469,Dominga Mármol,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",1,No pudo ayudarme,Dionisio Guardia,opinion4.png
+470,Ruth Cabrera,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ayudó en lo que necesitaba,Asunción Alemán,opinion1.png
+471,Sandra Sacristán,"['El día a día', 'Servicios del Municipio']",2,No terminó de ayudarme,Augusto Juárez,miembroh1.png
+472,Cornelio Zorrilla,"['Salud', 'El día a día', 'Servicios del Municipio']",2,Está normal,Clotilde Jerez,miembrom4.png
+473,Visitación Saura,"['Amigos y Ocio', 'Servicios del Municipio']",3,Ha estado muy bien,Felipe Yuste,opinion6.png
+474,Albino Cobos,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,El servicio no estuvo mal,María Gordillo,miembrom3.png
+475,Sebastián Soria,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Juana Cervantes,opinion4.png
+476,Merche Nevado,"['Nuevas Tecnologías', 'Burocracia']",2,El servicio no estuvo mal,Brígida Amores,miembrom3.png
+477,Estrella Puga,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Tecla Zabaleta,miembrom4.png
+478,Florentina Pinto,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Vera Conesa,miembrom3.png
+479,Maximiliano Guitart,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,Daniela Amaya,opinion2m.png
+480,Evangelina Madrigal,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Viviana Durán,opinion4.png
+481,Javi Botella,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,El día podría haber estado mejor,Jose Angel Gomez,opinion3m.png
+482,Toño Salcedo,"['Nuevas Tecnologías', 'Amigos y Ocio']",5,Qué bien que pudo ayudarme con mis papeles,Samanta Cañete,miembroh1.png
+483,Flavio Palmer,"['Salud', 'Burocracia', 'Servicios del Municipio']",3,Ha estado bien,Inés Mora,opinion5m.png
+484,Reinaldo Coello,"['Amigos y Ocio', 'Servicios del Municipio']",1,No es muy habladora,Juan José Carreño,opinion4.png
+485,Jose Ignacio Escolano,"['Amigos y Ocio', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Lalo Andreu,miembroh1.png
+486,Francisco Piñeiro,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,Fue un día estupendo,Epifanio Grande,opinion3m.png
+487,Estefanía Hernando,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Albert Salcedo,opinion4.png
+488,Anastasia Clemente,"['Salud', 'El día a día', 'Servicios del Municipio']",2,No terminó de ayudarme,Febe Méndez,opinion2m.png
+489,Jesús Serra,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,María Carmen Ramón,opinion1.png
+490,Felicia Izquierdo,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Carmina Arcos,opinion5m.png
+491,Ángel Jara,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Conrado Pereira,opinion2m.png
+492,Griselda Sola,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Eli Villena,opinion2m.png
+493,Valentina Benavent,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Josep Campo,miembroh1.png
+494,Vasco Ojeda,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,No me entendía,Glauco Balaguer,opinion6.png
+495,Diana Martínez,"['Nuevas Tecnologías', 'Salud', 'El día a día']",2,No ha ido mal,Abril Lladó,miembrom4.png
+496,Feliciana Rodrigo,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Agapito Juan,miembrom3.png
+497,Jenny Matas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",3,Ha podido ayudarme en algunas cosas,Eliseo Campoy,miembroh1.png
+498,Heliodoro Planas,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,No me ayudó nada,Rafa Angulo,opinion5m.png
+499,Reyna Tomas,"['Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Eusebia Sans,opinion3m.png
+500,Jose Ramón Feliu,"['Salud', 'Servicios del Municipio']",4,Fue un día estupendo,Inmaculada Trillo,miembroh3.png
+501,Goyo Sanabria,"['Amigos y Ocio', 'Burocracia']",4,No puedo estar más agradecida,Isabela Hierro,opinion6.png
+502,Enrique Español,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No sabía lo que le pedía,Brígida Solana,miembroh3.png
+503,León Sevillano,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Tristán Barrios,miembrom3.png
+504,Josep Benet,"['Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Alexandra Solano,miembroh1.png
+505,Venceslás Cabañas,"['Nuevas Tecnologías', 'Salud']",1,Llegó tarde,Samu Arranz,opinion4.png
+506,Aureliano Alcolea,"['Salud', 'El día a día']",1,No es muy habladora,Hector Macias,opinion4.png
+507,Ciro Guzmán,['Servicios del Municipio'],2,No ha podido ayudarme en lo que necesitaba,Danilo Berenguer,opinion6.png
+508,Flavio Ramos,"['Nuevas Tecnologías', 'Salud']",2,No ha ido mal,Macario Bertrán,miembroh1.png
+509,Amalia Teruel,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Julián Tamarit,opinion4.png
+510,Ignacio Quero,"['El día a día', 'Burocracia', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Natividad Adadia,miembroh3.png
+511,Vanesa Cózar,['El día a día'],4,Es un encanto y me ayudó a hablar con mis nietos,Toni Cruz,miembroh1.png
+512,Reynaldo Abril,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Juliana Iriarte,opinion1.png
+513,Rosario Lara,['Servicios del Municipio'],3,Ha estado bien,Feliciana Navarrete,opinion2m.png
+514,Ángeles Sanz,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",2,Puede mejorar,Yéssica Carrasco,opinion2m.png
+515,Lucho Torrecilla,['Amigos y Ocio'],3,Estoy contenta,Sandalio Gámez,opinion4.png
+516,Fabián Falcó,['Burocracia'],4,No hubiera podido está más feliz,Humberto Gracia,miembrom3.png
+517,Manu Gelabert,['Servicios del Municipio'],1,Tuvo muy poca paciencia,Carolina Exposito,opinion6.png
+518,Bautista Barrera,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,No pudo ayudarme,Modesto Almeida,miembroh1.png
+519,Mariana Mir,"['El día a día', 'Burocracia']",5,"Gracias, ha sido toda una experiencia",Leticia Casal,miembrom4.png
+520,Baudelio Ayllón,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",3,Me acompañó en lo que necesitaba,Dominga Villalonga,miembrom4.png
+521,Daniela Tapia,['Nuevas Tecnologías'],2,No ha podido ayudarme en lo que necesitaba,Octavio Jara,opinion1.png
+522,Ani Criado,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",1,No me arregló los papeles,Vera Carbó,miembroh1.png
+523,Baudelio Verdejo,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Bienvenida Mendez,opinion2m.png
+524,Cecilio Estevez,"['Amigos y Ocio', 'Burocracia']",3,Me ha ayudado mucho,Juan Pablo Cortina,opinion4.png
+525,Bruno Bayo,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No sabía lo que le pedía,Hilario Castillo,opinion6.png
+526,Imelda Gutierrez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",3,Me ha ayudado en lo que le he pedido,Gervasio Morell,miembroh1.png
+527,Sancho Carretero,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Erasmo Bermejo,opinion2m.png
+528,Tania Hoz,['Nuevas Tecnologías'],4,No hubiera podido está más feliz,Natalio Salvà,miembroh1.png
+529,Cristina Ariño,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No me ayudó nada,Matías Pujadas,opinion3m.png
+530,Estefanía Bilbao,"['Amigos y Ocio', 'Servicios del Municipio']",1,No habla mucho,Pacífica Abella,opinion6.png
+531,Simón Yáñez,['El día a día'],3,Ha estado bien,Juan Francisco Pla,opinion2m.png
+532,Maximiano Julián,['El día a día'],4,No puedo estar más agradecida,Ana Sofía Girona,miembrom3.png
+533,Hernando Miralles,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Gran dia,Ema Palmer,opinion1.png
+534,Jorge Priego,"['Salud', 'El día a día']",3,Estoy contenta,Maximino Almazán,miembroh1.png
+535,Eleuterio Marín,"['Amigos y Ocio', 'El día a día', 'Burocracia']",2,Es amable aunque no divertida,Caridad Bermudez,opinion4.png
+536,Zacarías Molina,"['Salud', 'Amigos y Ocio']",5,"Gracias, ha sido toda una experiencia",Teresa Andres,opinion4.png
+537,Úrsula Belmonte,"['Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha resuelto muchas dudas,Imelda Sanz,miembrom4.png
+538,Agapito Sedano,"['Salud', 'Burocracia']",2,Es amable aunque no divertida,María José Nogués,opinion5m.png
+539,Ester Cabo,"['Nuevas Tecnologías', 'El día a día']",3,Es muy amable,Fanny Noriega,miembrom4.png
+540,Candelario Garcés,['Amigos y Ocio'],4,Es un encanto y me ayudó a hablar con mis nietos,Edelmiro Ángel,opinion2m.png
+541,Antonia Cazorla,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Celso Caparrós,miembroh3.png
+542,Paco Bayona,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",2,"Bueno, podría mejorar",Samuel Carvajal,miembroh3.png
+543,Serafina Hidalgo,['Servicios del Municipio'],4,No hubiera podido está más feliz,Juan Francisco Barón,miembroh3.png
+544,Rafael López,"['Nuevas Tecnologías', 'El día a día']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Cipriano Llorente,opinion1.png
+545,Fausto Ríos,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Leonel Suárez,miembroh1.png
+546,Perla Mate,"['Nuevas Tecnologías', 'El día a día']",1,No habla mucho,Rafael Palacio,opinion2m.png
+547,Emma Ángel,"['El día a día', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Hipólito Vaquero,opinion1.png
+548,Adán Marí,"['Amigos y Ocio', 'Burocracia']",2,Ha llegado tarde,Fabián Gomis,miembroh1.png
+549,Gracia Calleja,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Irma Jurado,miembroh3.png
+550,Selena Cañizares,"['Salud', 'Burocracia']",4,Fue un día estupendo,Juan Antonio Barba,miembrom4.png
+551,Juan Luis Carlos,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Maxi Jiménez,miembrom3.png
+552,Tania Campo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",3,Ha estado muy bien,Luna Roma,miembrom4.png
+553,Manuelita Lladó,"['Amigos y Ocio', 'El día a día']",4,No hubiera podido está más feliz,Prudencia Torrijos,miembrom4.png
+554,Lope Galvez,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,"Bueno, podría mejorar",Salomón Meléndez,opinion1.png
+555,Liliana Novoa,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado mucho,Matilde Ferrándiz,opinion2m.png
+556,Herminio Laguna,['Salud'],2,No terminó de ayudarme,Chema Anguita,opinion4.png
+557,Anselma Torres,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me ha ayudado en lo que le he pedido,Evita Castañeda,opinion6.png
+558,José Azcona,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Ha estado muy bien,Dominga Saez,miembrom4.png
+559,Cirino Lloret,"['Salud', 'Amigos y Ocio']",1,No habla mucho,Loreto Alcolea,opinion1.png
+560,Arsenio Acevedo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",1,El día podría haber estado mejor,Venceslás León,opinion6.png
+561,Nazario Castrillo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",2,Está normal,Gracia Coll,opinion6.png
+562,Febe Juárez,"['Nuevas Tecnologías', 'Salud']",1,No me arregló los papeles,Victor Castelló,opinion6.png
+563,Felix Sala,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Me acompañó en lo que necesitaba,Timoteo Marqués,miembroh1.png
+564,Carmen Roma,"['El día a día', 'Servicios del Municipio']",3,Gran dia,Herberto Maza,opinion1.png
+565,Chelo Agustí,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",3,Es muy amable,Telmo Jordán,opinion3m.png
+566,Dani Company,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",3,Gracias,Irene Noguera,opinion6.png
+567,Caridad Araujo,"['Salud', 'El día a día', 'Servicios del Municipio']",5,Qué bien que pudo ayudarme con mis papeles,Mónica Prado,miembrom3.png
+568,Perlita Peiró,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Toño Sandoval,opinion2m.png
+569,Dafne Colomer,"['Salud', 'Amigos y Ocio']",5,No hubiera podido estar más feliz,Jose Carlos Sotelo,miembrom4.png
+570,Tito Castell,"['Salud', 'Burocracia']",1,Llegó tarde,Teófila Solsona,miembroh3.png
+571,Ariel Mendez,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,El servicio no estuvo mal,Florencio Mulet,opinion2m.png
+572,Pánfilo Pallarès,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",2,No ha podido ayudarme en lo que necesitaba,Joan Barranco,miembroh1.png
+573,Humberto Iborra,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Estoy contenta,Candelario Bello,opinion6.png
+574,Griselda Calderon,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",5,No hubiera podido estar más feliz,Ana Sofía Taboada,miembrom4.png
+575,Paulino Cortes,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,El día podría haber estado mejor,Pastor Verdugo,miembroh1.png
+576,Ángela Cámara,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",1,No me ayudó nada,Lisandro Cuenca,miembroh3.png
+577,Nereida Elorza,"['Amigos y Ocio', 'Burocracia']",1,No pudo ayudarme,Azahar Castellanos,miembroh1.png
+578,Socorro Revilla,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Matías Carranza,miembroh3.png
+579,Amador Escobar,"['El día a día', 'Burocracia']",1,Llegó tarde,Timoteo Sarabia,opinion3m.png
+580,Maite Márquez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Faustino Bonet,opinion3m.png
+581,Micaela Requena,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",1,No habla mucho,Hugo Valls,opinion5m.png
+582,Nidia Hurtado,"['Salud', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Prudencia Cepeda,opinion5m.png
+583,Juanito Campoy,"['Salud', 'El día a día', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Alondra Alemany,opinion5m.png
+584,Roberto Arias,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,Encantado con toda la ayuda que he recibido,Benito Amor,miembroh3.png
+585,Rosa María Sosa,"['Salud', 'Servicios del Municipio']",2,No ha ido mal,Severino Molina,miembrom3.png
+586,Iván Flores,"['Nuevas Tecnologías', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Carla Vilar,opinion3m.png
+587,Olga Seguí,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",5,Me ayudó mucho en casa,Juan Pablo Crespi,opinion2m.png
+588,Pancho Mayoral,"['Nuevas Tecnologías', 'Salud', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Sabas Ojeda,miembrom3.png
+589,Otilia Gisbert,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,No sabía lo que le pedía,Victor Manuel Bravo,miembrom4.png
+590,Amado Ferrando,"['Amigos y Ocio', 'El día a día']",4,Fue un día estupendo,Guillermo Iglesia,miembrom4.png
+591,Sabas Moya,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Maxi Palomares,miembroh1.png
+592,León Lorenzo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Maximino Lucas,opinion1.png
+593,Pascual Vergara,"['Salud', 'El día a día']",4,No puedo estar más agradecida,Ana Corbacho,opinion1.png
+594,Salomón Muñoz,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Es un encanto y me ayudó a hablar con mis nietos,Cintia Saavedra,opinion5m.png
+595,Amaro Arenas,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Patricio Paniagua,miembrom4.png
+596,César Rovira,"['El día a día', 'Burocracia', 'Servicios del Municipio']",2,No ha ido mal,Pancho Mir,miembrom4.png
+597,Onofre Rubio,['Burocracia'],1,No es muy habladora,Felicidad Palacios,opinion6.png
+598,Eloísa Vidal,"['El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me lo he pasado bien,Jose Manuel Nicolau,opinion5m.png
+599,David Plaza,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",5,Fue un día estupendo,Belen Peñalver,opinion5m.png
+600,Trinidad Falcón,['El día a día'],1,No es muy habladora,Brunilda Palomino,opinion4.png
+601,José Manuel Arregui,"['Salud', 'El día a día']",4,No hubiera podido está más feliz,Olegario Rebollo,miembroh3.png
+602,Leandra Abellán,"['Nuevas Tecnologías', 'Salud', 'El día a día']",4,Fue un día estupendo,Sosimo Ferrán,opinion1.png
+603,Aurora Figueras,"['Salud', 'Servicios del Municipio']",5,No hubiera podido estar más feliz,Leyre López,opinion1.png
+604,Prudencio Rosado,"['El día a día', 'Burocracia', 'Servicios del Municipio']",1,Llegó tarde,Maribel Enríquez,opinion4.png
+605,Buenaventura Mas,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",3,Un día agradable,Teobaldo Millán,opinion5m.png
+606,Anunciación Mendoza,"['Nuevas Tecnologías', 'El día a día']",3,Me lo he pasado bien,Clímaco Checa,opinion2m.png
+607,Griselda Real,"['El día a día', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Marino Echevarría,miembroh1.png
+608,Nacho Marqués,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Es muy amable,Leoncio Aguirre,opinion2m.png
+609,Casandra Castejón,"['Salud', 'Amigos y Ocio']",3,Gran dia,Zoraida Ródenas,opinion1.png
+610,Gregorio Rivero,"['Amigos y Ocio', 'El día a día']",5,No hubiera podido estar más feliz,Miguela Diez,miembroh1.png
+611,Graciana Pinilla,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",5,Me ayudó mucho en casa,Lilia Tovar,opinion3m.png
+612,Inés Dávila,"['Amigos y Ocio', 'El día a día', 'Burocracia']",1,El día podría haber estado mejor,Remigio Llamas,opinion4.png
+613,Encarnación Mascaró,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,No me entendía,María Ángeles Cuesta,opinion6.png
+614,Santiago Abad,['Salud'],4,No hubiera podido está más feliz,Consuela Gómez,miembrom4.png
+615,Marco Madrid,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,El día podría haber estado mejor,Narciso Rico,opinion6.png
+616,Humberto Ropero,"['Nuevas Tecnologías', 'Servicios del Municipio']",3,Ha estado muy bien,Omar Jove,miembrom4.png
+617,Mireia Montserrat,"['Salud', 'El día a día', 'Servicios del Municipio']",5,Sin duda seguiré utilizando este servicio,Luis Franco,miembroh1.png
+618,Adela Salamanca,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,Marcos Galiano,miembroh1.png
+619,Imelda García,"['Salud', 'Servicios del Municipio']",5,Me ayudó mucho en casa,Rolando Bayo,opinion5m.png
+620,Ariadna Sáenz,"['Nuevas Tecnologías', 'Servicios del Municipio']",3,Es muy amable,Salvador Montoya,opinion2m.png
+621,Nadia Doménech,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Paco Moreno,opinion2m.png
+622,Genoveva Blazquez,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,Tuvo muy poca paciencia,Leonardo Guardiola,miembroh3.png
+623,Loreto Villalba,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Es amable aunque no divertida,Gonzalo Fiol,miembroh3.png
+624,Gracia Naranjo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",2,No ha podido ayudarme en lo que necesitaba,América Giner,opinion1.png
+625,Ciro Menéndez,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Cleto Peinado,opinion1.png
+626,Jafet Colom,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,Puede mejorar,Jose Manuel Cueto,opinion2m.png
+627,Amador Arteaga,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",5,"Gracias, ha sido toda una experiencia",Rosendo Roig,opinion2m.png
+628,Jose Ignacio Beltran,"['Amigos y Ocio', 'El día a día']",5,No puedo estar más agradecida,Dafne Hidalgo,opinion3m.png
+629,Xavier Ribas,['El día a día'],5,Me ayudó mucho en casa,Irma Sosa,miembroh1.png
+630,Soraya Ferreras,['Nuevas Tecnologías'],5,No hubiera podido estar más feliz,Domingo Laguna,opinion1.png
+631,Lina Plana,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,No ha ido mal,Agapito Gibert,miembroh1.png
+632,Ana Belén Pulido,"['Amigos y Ocio', 'Burocracia']",3,No hemos terminado de congeniar pero ha estado bien,Adelardo Perales,miembrom3.png
+633,Jose Francisco Coloma,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",4,Fue un día estupendo,Clotilde Torrents,opinion2m.png
+634,Gabriela Adán,['Amigos y Ocio'],5,Fue un día estupendo,Susanita Sancho,opinion4.png
+635,Teodora Campillo,"['Nuevas Tecnologías', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Tomasa Muñoz,opinion5m.png
+636,Melania Rodríguez,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Bien,Ruth Cuervo,miembrom4.png
+637,Isidoro Echeverría,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,Al final tuvo que irse antes,Octavia Sanmiguel,miembroh3.png
+638,Nilda Villaverde,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Estoy contenta,Teófilo Santamaría,opinion1.png
+639,Abril Ibañez,"['Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Lidia Gutierrez,miembroh3.png
+640,Yéssica Carrión,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",5,Es un encanto y me ayudó a hablar con mis nietos,Consuelo Torrent,opinion6.png
+641,Yago Cañellas,"['Salud', 'El día a día', 'Servicios del Municipio']",1,El día podría haber estado mejor,Anabel Barberá,opinion5m.png
+642,Nicolasa Sobrino,"['Nuevas Tecnologías', 'El día a día', 'Servicios del Municipio']",3,Me ayudó mucho en casa,Nazario Rosado,miembrom4.png
+643,Guadalupe Molins,"['Nuevas Tecnologías', 'Salud']",3,Me ha ayudado en lo que le he pedido,Daniela Lago,opinion1.png
+644,Marisol Salas,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado mucho,Griselda Ureña,miembroh3.png
+645,Emperatriz Vargas,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Me ha resuelto muchas dudas,Aura Ortiz,opinion2m.png
+646,Teodosio Salmerón,"['El día a día', 'Servicios del Municipio']",1,Llegó tarde,Irma Vazquez,miembrom3.png
+647,Teófila Cuenca,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,No me ayudó nada,Eleuterio Hernando,opinion1.png
+648,Mar Taboada,"['Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Virgilio Nogueira,miembrom4.png
+649,Vinicio Jove,['Servicios del Municipio'],4,Es un encanto y me ayudó a hablar con mis nietos,Laura Español,opinion1.png
+650,Maricruz Huertas,"['Nuevas Tecnologías', 'Salud', 'El día a día']",1,No me arregló los papeles,Guillermo Ropero,opinion6.png
+651,Priscila Lluch,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Ha estado bien,Georgina Andrade,miembrom3.png
+652,María Dolores Vázquez,"['Amigos y Ocio', 'El día a día', 'Burocracia']",4,No puedo estar más agradecida,Tomás Vicente,opinion4.png
+653,Amada Haro,"['Salud', 'Burocracia', 'Servicios del Municipio']",1,No pudo ayudarme,Valentina Baró,miembroh1.png
+654,Leonardo Sabater,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Cosme Robledo,opinion6.png
+655,Casemiro Macias,"['Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",1,No me entendía,Toribio Barceló,miembroh3.png
+656,Joel Llabrés,"['Nuevas Tecnologías', 'El día a día']",2,Está normal,Emelina Guzman,opinion6.png
+657,Nico Montenegro,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,Fue un día estupendo,Sancho Torrens,opinion3m.png
+658,Teodora Berrocal,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",5,Me ayudó mucho en casa,Joaquín Terrón,opinion3m.png
+659,Emiliano Contreras,"['Nuevas Tecnologías', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Gran dia,Gustavo Rocamora,miembrom3.png
+660,Jerónimo Piñol,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",1,Tuvo muy poca paciencia,Julia Cárdenas,opinion2m.png
+661,Joaquina Corominas,"['Nuevas Tecnologías', 'Salud', 'El día a día']",5,Qué bien que pudo ayudarme con mis papeles,Blas Santamaria,miembroh1.png
+662,Lara Gargallo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",2,Ha llegado tarde,Joan Caballero,miembroh1.png
+663,Bernardo Ribera,"['Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Gracias,Amanda Coronado,miembrom4.png
+664,Saturnino Muro,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Burocracia']",3,Me ayudó mucho en casa,Amador Mosquera,opinion1.png
+665,Candela Solano,"['Nuevas Tecnologías', 'Salud', 'Servicios del Municipio']",5,Fue un día estupendo,Remigio Tamayo,opinion2m.png
+666,Severo Barrios,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Victoriano Ferrández,opinion1.png
+667,Hilario Rivera,"['Nuevas Tecnologías', 'Amigos y Ocio', 'Servicios del Municipio']",1,No pudo ayudarme,Baudelio Barriga,opinion4.png
+668,Roque Aller,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",1,El día podría haber estado mejor,Heliodoro Aguiló,miembrom4.png
+669,Rocío Pintor,['Nuevas Tecnologías'],4,Fue un día estupendo,Dimas Feijoo,opinion1.png
+670,Albina Aguado,"['Nuevas Tecnologías', 'Burocracia', 'Servicios del Municipio']",3,Me ha ayudado mucho,Juanito Oller,opinion1.png
+671,Pastor Porta,"['Nuevas Tecnologías', 'El día a día']",2,No terminó de ayudarme,Hermenegildo Gonzalez,opinion5m.png
+672,Reyna Rius,"['Amigos y Ocio', 'El día a día']",5,"Gracias, ha sido toda una experiencia",América Briones,opinion1.png
+673,Bárbara Torrents,"['Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",2,Está normal,Edelmiro Cantón,opinion1.png
+674,Isidoro Llamas,"['El día a día', 'Burocracia']",4,No hubiera podido está más feliz,Calista Ochoa,opinion2m.png
+675,Tristán Andres,"['Nuevas Tecnologías', 'Salud']",5,Encantado con toda la ayuda que he recibido,Teodosio Bayón,opinion3m.png
+676,Roque Navarrete,"['Salud', 'Burocracia']",1,Al final tuvo que irse antes,Amaro Peral,opinion5m.png
+677,Guiomar Quiroga,"['Salud', 'El día a día', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Isaura Riquelme,opinion3m.png
+678,Lourdes Solsona,"['Amigos y Ocio', 'El día a día']",1,El día podría haber estado mejor,Valerio Bayona,opinion4.png
+679,Zaira Amores,"['El día a día', 'Burocracia', 'Servicios del Municipio']",4,No hubiera podido está más feliz,Eduardo Villaverde,opinion4.png
+680,Victoria Prada,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia', 'Servicios del Municipio']",4,No puedo estar más agradecida,Marita Blanch,miembrom4.png
+681,Dora Blanes,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio']",1,El día podría haber estado mejor,Chita Segovia,opinion3m.png
+682,Fernanda Cerdá,"['Amigos y Ocio', 'El día a día']",5,No hubiera podido estar más feliz,Febe Vizcaíno,opinion2m.png
+683,Roxana Serrano,"['Nuevas Tecnologías', 'Amigos y Ocio']",1,No habla mucho,Heliodoro Benavides,opinion5m.png
+684,Germán Juan,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",4,No hubiera podido está más feliz,Eulalia Torre,opinion5m.png
+685,Reynaldo Morán,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,Encantado con toda la ayuda que he recibido,Juanita Tomé,opinion2m.png
+686,Héctor Morillo,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",2,Es amable aunque no divertida,Adora Roldán,miembroh3.png
+687,Nicolás Robles,['Nuevas Tecnologías'],5,"Gracias, ha sido toda una experiencia",Ignacio Canals,opinion3m.png
+688,José Antonio Azorin,"['Amigos y Ocio', 'Burocracia']",4,Fue un día estupendo,Rosalía Aliaga,opinion2m.png
+689,Pancho Gomez,"['Nuevas Tecnologías', 'Burocracia']",4,"Es un sol, me ayudó a desbloquear el móvil y lo arregló",Ramiro Perea,miembrom3.png
+690,Florentina Arjona,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",2,No terminó de ayudarme,Magdalena Dominguez,opinion1.png
+691,Marisela Anguita,"['Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",5,No puedo estar más agradecida,Remedios Reina,opinion4.png
+692,Jose Miguel Almagro,"['Nuevas Tecnologías', 'Amigos y Ocio']",5,Sin duda seguiré utilizando este servicio,Juan Manuel Rios,miembrom3.png
+693,Ester Gómez,"['El día a día', 'Burocracia']",3,Me ayudó en lo que necesitaba,Demetrio Guillén,miembroh3.png
+694,Edmundo Gibert,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",2,No terminó de ayudarme,Mamen Álvarez,opinion4.png
+695,Adela Jaén,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día']",3,Un día agradable,Olegario Barreda,opinion4.png
+696,María Fernanda Peinado,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,No puedo estar más agradecida,Ileana Morales,opinion2m.png
+697,Florencio Céspedes,"['Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Ha estado muy bien,Feliciana Cantón,mujer1.png
+698,María Amigó,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",4,Fue un día estupendo,Amador Llopis,hombre1.png
+699,Úrsula Perez,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",1,El día podría haber estado mejor,Dominga Roca,hombre2.png
+700,Régulo Fiol,['Servicios del Municipio'],5,No hubiera podido estar más feliz,Joan Vazquez,hombre2.png
+701,Carlos Herrero,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día']",1,No pudo ayudarme,Eligia Amor,mujer2.png
+702,Cristian Mata,"['Salud', 'Burocracia']",1,Llegó tarde,Isidro Sanchez,hombre2.png
+703,Remedios Armengol,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Servicios del Municipio']",1,No me pudo acompañar donde yo quería,Dolores Lobo,hombre1.png
+704,Ovidio Velasco,"['Salud', 'Amigos y Ocio', 'El día a día', 'Burocracia']",5,"Gracias, ha sido toda una experiencia",José Rocamora,mujer1.png
+705,Flora Nogueira,"['El día a día', 'Servicios del Municipio']",3,Estoy contenta,Ildefonso Navarro,mujer1.png
+706,Albano Trillo,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'El día a día', 'Servicios del Municipio']",4,No puedo estar más agradecida,Plinio Núñez,mujer2.png
+707,Curro Rosselló,"['Amigos y Ocio', 'El día a día', 'Burocracia']",2,No ha ido mal,Noemí Aroca,hombre2.png
+708,Porfirio Segura,"['Amigos y Ocio', 'El día a día', 'Burocracia']",2,El servicio no estuvo mal,Luna Segovia,hombre1.png
+709,Laura Rozas,"['Salud', 'Amigos y Ocio', 'Servicios del Municipio']",4,Es un encanto y me ayudó a hablar con mis nietos,Crescencia Fernandez,hombre2.png
+710,Gabriel Vélez,"['Nuevas Tecnologías', 'El día a día', 'Burocracia']",3,Un día agradable,Artemio Goñi,hombre1.png
+711,Florina León,['Salud'],4,No puedo estar más agradecida,Roxana Cabrero,hombre2.png
+712,Encarnación Tomás,"['Nuevas Tecnologías', 'Salud', 'Amigos y Ocio', 'Burocracia', 'Servicios del Municipio']",3,Gran dia,Fabiola Patiño,mujer2.png
+713,Adela Ruano,"['Nuevas Tecnologías', 'Salud', 'El día a día', 'Burocracia', 'Servicios del Municipio']",3,Estoy contenta,Fermín Pellicer,mujer1.png
+714,Paola Ledesma,"['Nuevas Tecnologías', 'Amigos y Ocio', 'El día a día', 'Burocracia']",3,Un día agradable,Herminia Lasa,hombre1.png
