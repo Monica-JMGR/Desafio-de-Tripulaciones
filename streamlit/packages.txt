@@ -1,3 +1,0 @@
-pandas-dev
-plotly-dev
-streamlit-option-menu-dev
