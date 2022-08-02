@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
+import streamlit_option_menu as som
 import Functions as ft
 
 
@@ -9,7 +9,7 @@ st.set_page_config(page_title='EmancipaTIC', layout='wide', page_icon="./IMG/des
 
 #Sidebar option 
 with st.sidebar:
-    selected = option_menu("EmancipaTIC", ['Home', 'Reporting','Prediction'], 
+    selected = som.option_menu("EmancipaTIC", ['Home', 'Reporting','Prediction'], 
         icons=['house'], menu_icon="cast", default_index=0)
     selected
 
