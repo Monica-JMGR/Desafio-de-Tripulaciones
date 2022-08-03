@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 import os
 
 path = os.path.dirname(__file__)
-my_file = path+'/estilos.css'
+my_file = path+'/css/estilos.css'
 
 # Open css file
 def opencss():
