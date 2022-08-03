@@ -7,10 +7,17 @@ import datetime
 import plotly.graph_objects as go
 import os
 
+
 path = os.path.dirname(__file__)
 my_file = path+'/css/estilos.css'
 imglogo = path+'/img/unknown.png'
 imgrep = path+'/img/reportingsstock.jpg'
+testr = path+'/Tablas/estrellasv.csv'
+tmiemb = path+'/Tablas/miembros.csv'
+tpredm = path+'/Tablas/predm.csv'
+tpredv = path+'/Tablas/predv.csv'
+tvol = path+'/Tablas/voluntarios.csv'
+
 
 # Open css file
 def opencss():
@@ -43,7 +50,7 @@ def reporting():
     selector = col1.selectbox("Select",("Usuarios","Voluntarios"))
     if selector == "Usuarios":
         graph = col1.selectbox("Select",("Gráfico de barras","Gráfico de puntos"))
-        inscripciones_mensuales = pd.read_csv('Tablas/miembros.csv')
+        inscripciones_mensuales = pd.read_csv(tmiemb)
 
         if graph == 'Gráfico de puntos':
             #Mascara
@@ -99,7 +106,7 @@ def reporting():
     
     if selector == "Voluntarios":
         graph = col1.selectbox("Select",("Gráfico de barras","Gráfico de puntos","Gráfico de corona"))
-        inscripciones_mensuales_v = pd.read_csv('./Tablas/voluntarios.csv')
+        inscripciones_mensuales_v = pd.read_csv(tvol)
 
         if graph == 'Gráfico de puntos':
             #Mascara
@@ -152,14 +159,14 @@ def reporting():
             col2.plotly_chart(fig)
 
         elif graph == "Gráfico de corona":
-            voluntarios_estrellas = pd.read_csv('./Tablas/estrellasv.csv')
+            voluntarios_estrellas = pd.read_csv(testr)
             fig = px.pie(voluntarios_estrellas, values='Nº Voluntarios por Valoracion', names='estrellas', title='Nº de Voluntarios por Valoracion')
             col2.plotly_chart(fig)
 
 
     if st.button('Evolución de los registros'):
-        inscripciones_mensuales_m = pd.read_csv('./Tablas/miembros.csv')
-        inscripciones_mensuales_v = pd.read_csv('./Tablas/voluntarios.csv')
+        inscripciones_mensuales_m = pd.read_csv(tmiemb)
+        inscripciones_mensuales_v = pd.read_csv(tvol)
 
         fig = make_subplots(specs=[[{"secondary_y": False}]])
 
@@ -207,7 +214,7 @@ def prediction():
     selector = col1.selectbox("Select",("Usuarios","Voluntarios"))
 
     if selector == "Usuarios":
-        y_test_pred2_df = pd.read_csv('Tablas/predm.csv')
+        y_test_pred2_df = pd.read_csv(tpredm)
         #Figura1
         fig = make_subplots(specs=[[{"secondary_y": False}]])
 
@@ -243,7 +250,7 @@ def prediction():
         
         col2.plotly_chart(fig)
     if selector == "Voluntarios":
-        y_test_pred2_df = pd.read_csv('Tablas/predv.csv')
+        y_test_pred2_df = pd.read_csv(tpredv)
         #Figura1
         fig = make_subplots(specs=[[{"secondary_y": False}]])
 
