@@ -274,20 +274,3 @@ def prediction():
         height=500)
         
         col2.plotly_chart(fig)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
