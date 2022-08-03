@@ -1,4 +1,5 @@
 import streamlit as st
+!install streamlit-option-menu
 from streamlit_option_menu import option_menu
 import Functions as ft
 
