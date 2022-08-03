@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 
 # Open css file
 def opencss():
-    with open('estilos.css') as f:
+    with open("css/estilos.css") as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 
