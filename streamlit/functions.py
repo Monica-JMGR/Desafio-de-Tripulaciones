@@ -5,12 +5,14 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 import datetime
 import plotly.graph_objects as go
+import os
 
-
+path = os.path.dirname(__file__)
+my_file = path+'/estilos.css'
 
 # Open css file
 def opencss():
-    with open("css/estilos.css") as f:
+    with open(my_file) as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 
