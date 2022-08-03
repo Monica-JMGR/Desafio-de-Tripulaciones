@@ -2,7 +2,6 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import functions as ft
 
-
 st.set_page_config(page_title='EmancipaTIC', layout='wide', page_icon="./IMG/descarga.jpg")
 
 
