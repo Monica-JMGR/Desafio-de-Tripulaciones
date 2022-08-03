@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 
 # Open css file
 def opencss():
-    with open('./css/estilos.css') as f:
+    with open('estilos.css') as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 
@@ -19,17 +19,17 @@ def opencss():
 def home():
     opencss()
     c1,c2 = st.columns((1, 8))
-    c1.image("./IMG/unknown.png",width=180, output_format="auto")
+    c1.image("unknown.png",width=180, output_format="auto")
     c2.title("Red EmancipaTIC")
     st.markdown("---")
     st.subheader("Reportes disponibles en línea")
     st.markdown('Aquí podrás ver información detallada sobre los reportes de las inscripciones y valoraciones de los usuarios de Red EmancipaTIC.')
-    st.image("./IMG/reportingsstock.jpg",use_column_width='auto', output_format="auto")
+    st.image("reportingsstock.jpg",use_column_width='auto', output_format="auto")
 
 def reporting():
     opencss()
     c1,c2 = st.columns((1, 8))
-    c1.image("./IMG/unknown.png",width=180, output_format="auto")
+    c1.image("unknown.png",width=180, output_format="auto")
     c2.title("Estadísticas de Red EmancipaTIC")
     st.markdown("---")
     col1, col2= st.columns((2, 5))
@@ -195,7 +195,7 @@ def reporting():
 
 def prediction():
     c1,c2 = st.columns((1, 8))
-    c1.image("./IMG/unknown.png",width=180, output_format="auto")
+    c1.image("unknown.png",width=180, output_format="auto")
     c2.title("Forecasting registros")
     st.markdown("---")
     col1, col2= st.columns((2, 5))
